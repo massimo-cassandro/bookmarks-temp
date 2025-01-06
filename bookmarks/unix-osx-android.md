@@ -2,9 +2,6 @@
 * 43 Practical Examples of Linux Find Command | Cloud Devops Unix Linux Container Tutorial <https://sysaix.com/43-practical-examples-of-linux-find-command>
 * The Bash Primer <http://www.compciv.org/bash-guide/>
 * General purpose command-line tools <http://www.compciv.org/unix-tools/>
-
-## unix
-
 * Relative symlinks - Thijs Feryn <https://feryn.eu/blog/relative-symlinks/>
 * rsync(1): a fast versatile | Linux Man Page <https://dashdash.io/1/rsync>
 * The Front-End Developer's Guide to the Terminal <https://www.joshwcomeau.com/javascript/terminal-for-js-devs/>
