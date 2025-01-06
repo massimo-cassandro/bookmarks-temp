@@ -1,4 +1,5 @@
 ## unix
+* 43 Practical Examples of Linux Find Command | Cloud Devops Unix Linux Container Tutorial <https://sysaix.com/43-practical-examples-of-linux-find-command>
 * The Bash Primer <http://www.compciv.org/bash-guide/>
 * General purpose command-line tools <http://www.compciv.org/unix-tools/>
 
