@@ -39,3 +39,4 @@
 * Spline - Design tool for 3D web experiences <https://spline.design/>
 * ff-works (ex iFFmpeg) <https://www.ffworks.net/>
 * noDRM/DeDRM_tools: DeDRM tools for ebooks <https://github.com/noDRM/DeDRM_tools>
+* ciromattia/kcc: KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers. <https://github.com/ciromattia/kcc>
