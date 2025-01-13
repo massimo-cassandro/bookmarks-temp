@@ -74,7 +74,10 @@
 * UI Gradient Generator: Make Beautiful CSS Gradients [& SVG] <https://learnui.design/tools/gradient-generator.html>
 
 
-
+## color pickers
+* https://about.asika.tw/spectrum-vanilla/
+* https://vanilla-picker.js.org/
+* https://iamkulykov.com/vanilla-colorful/
 
 
 ## Reference
