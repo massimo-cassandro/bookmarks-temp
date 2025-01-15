@@ -4,13 +4,21 @@
 * Build real-time editing into your React site | Tina <https://tina.io/>
 * Headless CMS: Organize your content for the world - Storyblok <https://www.storyblok.com/>
 * The Jamstack CMS, backed by Git | CloudCannon <https://cloudcannon.com/>
-* Jekyll • Simple, blog-aware, static sites | Transform your plain text into static websites and blogs <https://jekyllrb.com/>
 * Netlify: Develop & deploy the best web experiences in record time <https://www.netlify.com/>
-* The world’s fastest framework for building websites | Hugo <https://gohugo.io/>
 * ProcessWire: An open source CMS with a powerful API <https://processwire.com/>
 * Outstatic - A Static Site CMS for Next.js <https://outstatic.com/>
-* Eleventy is a simpler static site generator. <https://www.11ty.dev/>
 * Random Data Generator <http://www.randat.com/>
+
+
+---
+
+
+
+* Jekyll • Simple, blog-aware, static sites | Transform your plain text into static websites and blogs <https://jekyllrb.com/>
+* Hugo The world’s fastest framework for building websites <https://gohugo.io/>
+* https://www.gatsbyjs.com/docs
+* Eleventy is a simpler static site generator. <https://www.11ty.dev/>
+* https://github.com/craigbuckler/11ty-starter
 * Building a Database Driven Eleventy Site <https://www.raymondcamden.com/2021/04/15/building-a-database-driven-eleventy-site>
 * A Guide to Building a Blog in Eleventy <https://www.raymondcamden.com/2022/01/19/a-guide-to-building-a-blog-in-eleventy>
 

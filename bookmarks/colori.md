@@ -104,6 +104,6 @@
 * Colour management, part 1 <https://bjango.com/articles/colourmanagementgamut/>
 * Colour management, part 2 <https://bjango.com/articles/colourmanagementgamma/>
 * Colour management, part 3 <https://bjango.com/articles/colourmanagementsettings/>
-
+* HEX to Pantone - Best Online Tool to Convert HEX Color to Pantone Color <https://codebeautify.org/hex-to-pantone-converter>
 
 

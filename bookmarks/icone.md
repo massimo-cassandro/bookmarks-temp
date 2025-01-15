@@ -25,7 +25,17 @@
 
 ---
 
+* Tips on How to Pick the Right Icons for Your Website by Stéphanie Walter - UX Researcher & Designer. <https://stephaniewalter.design/blog/tips-on-how-to-pick-the-right-icons-for-your-website-with-icons8/>
 * Stop Using Icon Fonts by Michael Irigoyen <https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/>
+* A complete guide to iconography <https://www.designsystems.com/iconography-guide/>
+* 7 Principles of Icon Design. Creating a high-quality icon family… | by Helena Zhang | UX Collective <https://uxdesign.cc/7-principles-of-icon-design-e7187539e4a2>
+* Optical effects in user interfaces | Slava Shestopalov | Design Bridges <https://medium.com/design-bridges/optical-effects-9fca82b4cd9a>
+* Icon University - Streamline <https://blog.streamlinehq.com/tag/icons/>
+* Logo Design Love - on logos, symbols, icons, and marks <https://www.logodesignlove.com/>
+* Icon Grids & Keylines Demystified | by Helena Zhang | Medium <https://minoraxis.medium.com/icon-grids-keylines-demystified-5a228fe08cfd>
+* Foundations of iconography. Definition, purpose, and benefits… | by Helena Zhang | UX Collective <https://uxdesign.cc/foundations-of-iconography-f95d7233a3e6>
+* Accordion Icons: Which Signifiers Work Best? <https://www.nngroup.com/articles/accordion-icons/>
+
 
 ---
 

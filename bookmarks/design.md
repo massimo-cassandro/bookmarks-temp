@@ -137,10 +137,7 @@
 * Responsive Height Design <https://ishadeed.com/article/responsive-design-height/>
 * Fundamentals of layout in user interface design (UI) | by Leonardo Moreno | UX Collective <https://uxdesign.cc/fundamentals-of-layout-in-interface-design-ui-3a9dba31f1>
 * Uniwidth typefaces for interface design | by Lisa Staudinger | UX Collective <https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7>
-* Icon Grids & Keylines Demystified | by Helena Zhang | Medium <https://minoraxis.medium.com/icon-grids-keylines-demystified-5a228fe08cfd>
-* Foundations of iconography. Definition, purpose, and benefits… | by Helena Zhang | UX Collective <https://uxdesign.cc/foundations-of-iconography-f95d7233a3e6>
 * Bidirectional scrolling: what’s not to like? – Adam Silver – Designer, London, UK. <https://adamsilver.io/blog/bidirectional-scrolling-whats-not-to-like/>
-* 7 Principles of Icon Design. Creating a high-quality icon family… | by Helena Zhang | UX Collective <https://uxdesign.cc/7-principles-of-icon-design-e7187539e4a2>
 * What are design tokens? - Tutorial - Piccalilli <https://piccalil.li/tutorial/what-are-design-tokens>
 * 10 Usability Heuristics for User Interface Design <https://www.nngroup.com/articles/ten-usability-heuristics/>
 * Responsive grids and how to actually use them | by Christie Tang | UX Collective <https://uxdesign.cc/responsive-grids-and-how-to-actually-use-them-970de4c16e01>
@@ -194,7 +191,6 @@
 
 
 * Designing The Perfect Accordion — Smashing Magazine <https://www.smashingmagazine.com/2017/06/designing-perfect-accordion-checklist/>
-* Accordion Icons: Which Signifiers Work Best? <https://www.nngroup.com/articles/accordion-icons/>
 * Designing Better Breadcrumbs — Smashing Magazine <https://www.smashingmagazine.com/2022/04/designing-better-breadcrumbs/>
 * Designing A Better Carousel UX — Smashing Magazine <https://www.smashingmagazine.com/2022/04/designing-better-carousel-ux/>
 * Designing A Better Infinite Scroll — Smashing Magazine <https://www.smashingmagazine.com/2022/03/designing-better-infinite-scroll/>
@@ -212,7 +208,6 @@
 * Material Design 3 <https://m3.material.io/>
 * Human Interface Guidelines - Human Interface Guidelines - Design - Apple Developer <https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/>
 * Golden Ratio Typography Pro Calculator <https://grtcalculator.com/pro/>
-* Logo Design Love - on logos, symbols, icons, and marks <https://www.logodesignlove.com/>
 * HICKS : Graphic design, branding, illustration & iconography <https://hicks.design/>
 * System Design <https://www.karanpratapsingh.com/courses/system-design>
 * GOV.UK Design System – Figma <https://www.figma.com/community/file/946837271092540314>
