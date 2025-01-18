@@ -10,3 +10,6 @@
 * Clearing Git History in Local and Remote Branches - SysTutorials <https://www.systutorials.com/how-to-clear-git-history-in-local-and-remote-branches/>
 * Git Reset Origin – How to Reset a Local Branch to Remote Tracking Branch <https://www.freecodecamp.org/news/git-reset-origin-how-to-reset-a-local-branch-to-remote-tracking-branch/>
 
+
+## github
+* Download GitHub directory <https://download-directory.github.io/>
