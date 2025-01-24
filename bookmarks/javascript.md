@@ -1,6 +1,12 @@
 # Javascript - Typescript - Json
 
 * Javascript Playground (Sandbox, Repl) <https://playcode.io/>
+* CodeSandbox <https://codesandbox.io/>
+  
+***
+
+* trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings <https://github.com/trekhleb/javascript-algorithms/tree/master>
+* humanwhocodes/computer-science-in-javascript: Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript. <https://github.com/humanwhocodes/computer-science-in-javascript>
 
 ## Javascript / typescript
 
