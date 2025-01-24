@@ -883,7 +883,6 @@
 * Browserflow - Automate your work on any website <https://browserflow.app/>
 * browsers.page <https://blog.pdf.ist/browsers-page/>
 * Matrix Multiplication <http://matrixmultiplication.xyz/>
-* Eloquent JavaScript <https://eloquentjavascript.net/>
 * Guides | Learn the basics with expert resources | Maze <https://maze.co/guides/>
 * e-Books <https://www.uxpin.com/studio/ebooks/>
 * GitHub - getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter. <https://github.com/getify/You-Dont-Know-JS/>

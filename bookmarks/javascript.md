@@ -5,6 +5,8 @@
   
 ***
 
+* JavaScript | MDN <https://developer.mozilla.org/en-US/docs/Web/JavaScript>
+* Eloquent JavaScript <https://eloquentjavascript.net/>
 * trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings <https://github.com/trekhleb/javascript-algorithms/tree/master>
 * humanwhocodes/computer-science-in-javascript: Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript. <https://github.com/humanwhocodes/computer-science-in-javascript>
 
