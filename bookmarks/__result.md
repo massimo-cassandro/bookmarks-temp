@@ -902,7 +902,6 @@
 * Dashboard - CodeSandbox <https://codesandbox.io/dashboard/recent>
 * Massimo Cassandro on CodePen <https://codepen.io/massimo-cassandro/>
 * JSFiddle - Code Playground <https://jsfiddle.net/>
-* The first commented line is your dabblet’s title ✿ dabblet.com <https://dabblet.com/>
 * NetNewsWire: Free and Open Source RSS Reader for Mac and iOS <https://netnewswire.com/>
 * Chrome Developers <https://developer.chrome.com/>
 * Cheat Sheet <https://docs.emmet.io/cheat-sheet/>

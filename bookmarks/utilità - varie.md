@@ -1,7 +1,7 @@
 # Utilità - Varie
 
 
-## Tools
+## Tools / Ide
 
 * Omatsuri <https://omatsuri.app/>
 * Patterns  |  Component patterns  |  web.dev <https://web.dev/patterns?hl=en>
@@ -17,6 +17,7 @@
 * CodeMirror <https://codemirror.net/>
 * Component toolkit for creating live-running code editing experiences | Sandpack <https://sandpack.codesandbox.io/>
 * Building a Next-Level Code Playground / Sandbox / REPL with Sandpack <https://www.joshwcomeau.com/react/next-level-playground/>
+* CodeSandbox - Import from GitHub <https://codesandbox.io/s/github>
 
 ---
 
