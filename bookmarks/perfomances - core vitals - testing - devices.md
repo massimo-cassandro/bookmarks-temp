@@ -2,6 +2,7 @@
 
 
 * search console <https://search.google.com/search-console>
+* Inspect network activity  |  Chrome DevTools  |  Chrome for Developers <https://developer.chrome.com/docs/devtools/network?h=>
 
 ## Web vitals / perfomance / testing
 * GoogleChrome/lighthouse: Automated auditing, performance metrics, and best practices for the web. <https://github.com/GoogleChrome/lighthouse> 

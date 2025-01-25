@@ -10,12 +10,13 @@
 
 * Shiki - Syntax highlighter <https://shiki.style/>
 * Prism <https://prismjs.com/>
+* Component toolkit for creating live-running code editing experiences | Sandpack <https://sandpack.codesandbox.io/>
+* Show Baseline status on your blog posts and presentations  |  Blog  |  web.dev <https://web.dev/blog/show-baseline-status>
 
 ---
 
 * agneym/playground: A simple playground for HTML, CSS and JavaScript supporting module imports. <https://github.com/agneym/playground>
 * CodeMirror <https://codemirror.net/>
-* Component toolkit for creating live-running code editing experiences | Sandpack <https://sandpack.codesandbox.io/>
 * Building a Next-Level Code Playground / Sandbox / REPL with Sandpack <https://www.joshwcomeau.com/react/next-level-playground/>
 * CodeSandbox - Import from GitHub <https://codesandbox.io/s/github>
 
