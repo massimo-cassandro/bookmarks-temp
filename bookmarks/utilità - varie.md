@@ -43,7 +43,9 @@
 * Bookmarklet Maker <https://caiorss.github.io/bookmarklet-maker/>
 * Make Bookmarklets | Make it easy <https://make-bookmarklets.com/>
 
-
+## Presentazioni
+* WebSlides: Create Beautiful HTML Presentations <https://webslides.tv/>
+* The HTML presentation framework | reveal.js <https://revealjs.com/>
 
 ## fakers
 
