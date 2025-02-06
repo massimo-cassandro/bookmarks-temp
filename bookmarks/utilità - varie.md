@@ -37,6 +37,8 @@
 ## device check
 * mydevice.io : web devices capabilities <https://www.mydevice.io/>
 * What is my screen resolution <https://screenresolutiontest.com/>
+* Device Info - Web browser security, privacy, and troubleshooting tool. <https://www.deviceinfo.me/>
+
 
 
 ## Bookmarklet
