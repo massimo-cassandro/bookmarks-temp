@@ -82,6 +82,8 @@
 * Commercial Type » Catalog » Eugenio Serif Family <https://commercialtype.com/catalog/eugenio_serif/eugenio_serif/regular>
 * Commercial Type » Catalog » Eugenio Sans Collection <https://commercialtype.com/catalog/eugenio_sans>
 * Commercial Type » Catalog » Ionic Modern Collection <https://commercialtype.com/catalog/ionic_modern>
+* Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts patcher <https://www.nerdfonts.com/>
+* microsoft/cascadia-code: This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. <https://github.com/microsoft/cascadia-code>
 
 
 ## Fonts
