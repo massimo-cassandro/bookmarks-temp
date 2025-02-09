@@ -36,7 +36,6 @@
 * Colordot - A color picker for humans <https://color.hailpixel.com/#DABB90,6840BF,42A136,EAE0F5>
 * Accessible color palette builder <https://line47.com/accessible-color-matrix/>
 * hhhue: curated collection of beautiful color palettes | fffuel <https://fffuel.co/hhhue/>
-* https://developer.chrome.com/blog/css-relative-color-syntax?hl=it
 
 
 ## apps
@@ -47,6 +46,7 @@
 
 ## Colori
 * color-mix() <https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/color-mix>
+* CSS color-mix()  |  Chrome for Developers <https://developer.chrome.com/docs/css-ui/css-color-mix>
 * CSS relative color syntax <https://developer.chrome.com/blog/css-relative-color-syntax/>
 * Simplify Your Color Palette With CSS Color-Mix() <https://www.smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/>
 * Creazione di una combinazione di colori <https://web.dev/articles/building/a-color-scheme?hl=it>

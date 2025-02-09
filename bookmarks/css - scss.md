@@ -19,8 +19,12 @@
 
 * How to Fix Issues With CSS Position Sticky Not Working? - Designcise <https://www.designcise.com/web/tutorial/how-to-fix-issues-with-css-position-sticky-not-working>
 * debug horiz scroll bar (https://gist.github.com/cuth/c1ddf2b1ce2fb07e512a)
+* Smooth Height Transition | CSS Animation | Web Development | LabEx <https://labex.io/tutorials/css-smooth-transition-of-dynamic-heights-35207>
+* Transitioning To Auto Height | CSS-Tricks <https://css-tricks.com/transitioning-to-auto-height/>
+
 
 ---
+
 
 * Next-level frosted glass with backdrop-filter • Josh W. Comeau <https://www.joshwcomeau.com/css/backdrop-filter/>
 * How To Center a Div <https://www.joshwcomeau.com/css/center-a-div/>
