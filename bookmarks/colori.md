@@ -10,9 +10,12 @@
 * Ruota colore, un generatore di palette colore | Adobe Color <https://color.adobe.com/it/create/color-wheel>
 * EightShapes Contrast Grid <https://contrast-grid.eightshapes.com>
 * Randoma11y - Accessible color combinations <https://randoma11y.com/>
-
+* Accessible Color Contrast Tool (Make Any Color Accessible!) <https://www.learnui.design/tools/accessible-color-generator.html>
+* 
 ---
 
+* Perceptual Palettes | Accessible Color Palette Generator <https://perceptualpalettes.alexdunn.au/?c=Brand%23ff10fd%2CSecondary%23ffaa02%2CTertiary%232ca3c2%2CNeutral%23000000&l=90%2C80%2C70%2C60%2C35%2C21%2C12%2C6%2C2%2C1%2C0.5&n=false&i=true>
+* Fix Color Contrast – Web Accessibility for Text & UI Design - Pimp my Type <https://pimpmytype.com/color-contrast/?trk=comments_comments-list_comment-text>
 * colorate | Strumenti di schema di colori per designer e sviluppatori. <https://colorate.azurewebsites.net/it>
 * Generate - Coolors.co <https://coolors.co/58355e-c216e0-ed89ff-f3afff-b458c4>
 * couleur.io → Harmonizing Color Palettes for Your Web Projects <https://couleur.io/>

@@ -25,11 +25,13 @@
 
 
 ## fonts interessanti
+* Radio Canada - Google Fonts <https://fonts.google.com/specimen/Radio+Canada>
+* Atkinson Hyperlegible Font - Braille Institute <https://www.brailleinstitute.org/freefont/>
+* Atkinson Hyperlegible - Google Fonts <https://fonts.google.com/specimen/Atkinson+Hyperlegible>
 * Agrandir - Free to Try Font with 74 Styles – Pangram Pangram Foundry <https://pangrampangram.com/products/agrandir>
 * Connary Fagen:Cartograph <https://connary.com/cartograph.html>
 * AdapterPE <https://rosettatype.com/AdapterPE>
 * Archivo <https://www.omnibus-type.com/fonts/archivo/>
-* Atkinson Hyperlegible - Google Fonts <https://fonts.google.com/specimen/Atkinson+Hyperlegible>
 * Avería <http://iotic.com/averia/>
 * Barlow <https://tribby.com/fonts/barlow/>
    * Barlow - Google Fonts <https://fonts.google.com/?query=barlow>

@@ -1351,7 +1351,6 @@
 * Color.review - Colors that look and work great for everyone <https://color.review/check/FEDC2A-5A3B5D>
 * Color contrast checker, analyser and color suggestions | Polypane, The browser for ambitious web developers <https://polypane.app/color-contrast/#fg=%23107db5&bg=%23fff&level=aaa&format=hex&algo=WCAG2&filter=none>
 * Tanaguru Contrast-Finder <https://contrast-finder.tanaguru.com/>
-* Fix Color Contrast – Web Accessibility for Text & UI Design - Pimp my Type <https://pimpmytype.com/color-contrast/>
 * How To Design For Colorblind People | LinkedIn <https://www.linkedin.com/posts/vitalyfriedman_ux-design-accessibility-activity-7087333591906430976-PHsN/>
 * Browse Fonts - Google Fonts <https://fonts.google.com/?preview.text_type=custom&query=inria>
 * Martian Mono - Google Fonts <https://fonts.google.com/specimen/Martian+Mono>
