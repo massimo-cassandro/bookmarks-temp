@@ -5,6 +5,12 @@
 * Responsive Image Breakpoints Generator <https://responsivebreakpoints.com/> 
 * iLoveIMG <https://www.iloveimg.com/it>
 
+-----
+
+* How to preload responsive images with imagesizes and imagesrcset | Stefan Judis Web Development <https://www.stefanjudis.com/today-i-learned/how-to-preload-responsive-images-with-imagesizes-and-imagesrcset/>
+* link: The External Resource Link element - HTML: HyperText Markup Language | MDN <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link#rel>
+
+
 
 ## Img manipulation
 

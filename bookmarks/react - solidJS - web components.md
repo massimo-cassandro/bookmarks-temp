@@ -1,4 +1,4 @@
-# React
+# React, web components e varie
 
 * Patterns <https://web.dev/patterns/>
 * The Component Gallery <https://component.gallery/>
@@ -71,13 +71,129 @@
 * https://blog.nonstopio.com/a-step-by-step-guide-to-publishing-your-own-react-npm-package-fa2b7f1d149
 
 
-# SolidJS
+## SolidJS
 * SolidJS · Libreria Javascript reattiva <https://www.solidjs.com/>
 * Kobalte <https://kobalte.dev>
 
 
 
-# framework-agnostic UI component
+## framework-agnostic UI component
 
 * Zag - Rapidly build UI components without sweating over the logic. - Zag <https://zagjs.com/>
 * SUID <https://suid.io/>
+
+
+## varie
+
+
+Preact
+Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
+<https://preactjs.com>
+
+Lit
+https://lit.dev/
+
+Qwik
+https://qwik.builder.io/
+
+Stencil
+https://stenciljs.com
+
+HTMX
+https://htmx.org/
+
+Jest
+Delightful JavaScript Testing.
+https://jestjs.io
+
+Mocha
+️simple, flexible, fun javascript test framework for node.js & the browser
+https://mochajs.org
+
+Storybook
+The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+https://storybook.js.org
+
+Testing Library
+Simple and complete React DOM testing utilities that encourage good testing practices.
+https://testing-library.com/
+
+Playwright
+Node.js library to automate Chromium, Firefox and WebKit with a single API
+https://playwright.dev
+
+WebdriverIO
+Next-gen browser and mobile automation test framework for Node.js
+http://webdriver.io
+
+Vitest
+A blazing fast unit-test framework powered by Vite
+https://vitest.dev/
+
+Selenium
+https://www.selenium.dev/
+
+TestCafe
+A Node.js tool to automate end-to-end web testing.
+https://devexpress.github.io/testcafe/
+
+Mock Service Worker
+Seamless REST/GraphQL API mocking library for browser and Node.
+https://mswjs.io
+
+Node Test Runner
+https://nodejs.org/en/learn/test-runner/introduction
+
+Capacitor
+https://capacitor.ionicframework.com/
+
+NW.js
+Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
+https://nwjs.io
+
+Expo
+An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
+https://docs.expo.io
+
+Quasar
+Responsive Single Page Apps, Server-side Render Apps, Progressive Web Apps, Hybrid Mobile Apps (that look native!) & Electron Apps, all using the same codebase.
+https://quasar.dev
+
+Tauri
+Build smaller, faster, and more secure desktop applications with a web frontend
+https://tauri.app/
+
+NativeScript
+NativeScript empowers you to access native api's from JavaScript directly. Angular, Vue, Svelte, React and you name it compatible.
+https://www.nativescript.org
+
+tsc CLI
+A superset of JavaScript that compiles to clean JavaScript output.
+https://www.typescriptlang.org
+
+SWC
+swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
+https://swc.rs/
+
+esbuild
+An extremely fast JavaScript bundler and minifier
+https://esbuild.github.io/
+
+Vite
+https://github.com/vitejs/vite
+
+Turbopack
+https://turbo.build/pack
+
+tsup
+https://tsup.egoist.dev/
+
+Biome
+One toolchain for your web project
+https://biomejs.dev/
+
+Rspack
+https://www.rspack.dev/
+
+Rolldown
+https://rolldown.rs/
