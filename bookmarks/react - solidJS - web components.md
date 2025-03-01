@@ -54,7 +54,6 @@
 * Formik: Build forms in React, without the tears <https://formik.org/>
 * React Select <https://react-select.com/home>
 * Final Form <https://final-form.org/>
-* Radix UI, open source component library <https://www.radix-ui.com/>
 * Reach UI <https://reach.tech/>
 * MUI: The React component library you always wanted <https://mui.com/>
 * Carbon Design System <https://carbondesignsystem.com/>
