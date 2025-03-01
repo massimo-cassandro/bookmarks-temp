@@ -2,6 +2,10 @@
 
 
 ## Palette generators
+* Accessible Color Palette Generator <https://thisisfranciswu.com/enterprise-ui-palette-generator/>
+  * thisisfranciswu/enterprise-ui-palette-generator: A tool to automate the generation of accessible enterprise UI color palettes. <https://github.com/thisisfranciswu/enterprise-ui-palette-generator>
+  * Creating the Accessible Color Palette Generator | by Francis Wu | Jan, 2025 | Medium <https://medium.com/@thisisfranciswu/creating-the-accessible-color-palette-generator-dd1f74b717ee>
+  * A systematic approach to generating enterprise UI color palettes | by Francis Wu | UX Collective <https://uxdesign.cc/a-systematic-approach-to-generating-enterprise-ui-color-palettes-ecaf0c164c17>
 * cccolor → clean & simple color picker for web designers <https://fffuel.co/cccolor/>
 * Scale — color scale generator <https://hihayk.github.io/scale/>
 * hue.tools – mix <https://hue.tools/mix?colors=b75b5dff%3B37e965ff&steps=10&view=steps&mode=lch&format=hex>
