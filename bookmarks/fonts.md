@@ -87,7 +87,6 @@
 * Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts patcher <https://www.nerdfonts.com/>
 * microsoft/cascadia-code: This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. <https://github.com/microsoft/cascadia-code>
 
-
 ## Fonts
 * FontForge Open Source Font Editor <https://fontforge.org/en-US/>
 * Adobe fonts <https://fonts.adobe.com/fonts>

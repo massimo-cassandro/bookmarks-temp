@@ -35,7 +35,7 @@
 * Icon Grids & Keylines Demystified | by Helena Zhang | Medium <https://minoraxis.medium.com/icon-grids-keylines-demystified-5a228fe08cfd>
 * Foundations of iconography. Definition, purpose, and benefits… | by Helena Zhang | UX Collective <https://uxdesign.cc/foundations-of-iconography-f95d7233a3e6>
 * Accordion Icons: Which Signifiers Work Best? <https://www.nngroup.com/articles/accordion-icons/>
-
+* 3 Classic Icon Families. And why they matter | by Helena Zhang | Medium <https://minoraxis.medium.com/3-classic-icon-families-f5026ed923dd>
 
 ---
 

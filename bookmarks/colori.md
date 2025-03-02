@@ -5,8 +5,8 @@
 * Create a custom palette – Radix Colors <https://www.radix-ui.com/colors/custom>
 * Accessible Color Palette Generator <https://thisisfranciswu.com/enterprise-ui-palette-generator/>
   * thisisfranciswu/enterprise-ui-palette-generator: A tool to automate the generation of accessible enterprise UI color palettes. <https://github.com/thisisfranciswu/enterprise-ui-palette-generator>
-  * Creating the Accessible Color Palette Generator | by Francis Wu | Jan, 2025 | Medium <https://medium.com/@thisisfranciswu/creating-the-accessible-color-palette-generator-dd1f74b717ee>
   * A systematic approach to generating enterprise UI color palettes | by Francis Wu | UX Collective <https://uxdesign.cc/a-systematic-approach-to-generating-enterprise-ui-color-palettes-ecaf0c164c17>
+* Shade generator | Create uniform shades and tints | Atmos <https://atmos.style/shade-generator>
 * cccolor → clean & simple color picker for web designers <https://fffuel.co/cccolor/>
 * Scale — color scale generator <https://hihayk.github.io/scale/>
 * hue.tools – mix <https://hue.tools/mix?colors=b75b5dff%3B37e965ff&steps=10&view=steps&mode=lch&format=hex>
@@ -16,9 +16,17 @@
 * EightShapes Contrast Grid <https://contrast-grid.eightshapes.com>
 * Randoma11y - Accessible color combinations <https://randoma11y.com/>
 * Accessible Color Contrast Tool (Make Any Color Accessible!) <https://www.learnui.design/tools/accessible-color-generator.html>
+* Color wheel | Use color theory and color calculator | Atmos <https://atmos.style/color-wheel>
+* LCH and OKLCH color tool | Create accessible color palettes | Atmos <https://atmos.style/playground>
+* Tanaguru Contrast-Finder <https://contrast-finder.tanaguru.com/>
 * 
 ---
 
+* Designing accessible color systems <https://stripe.com/blog/accessible-color-systems>
+* Color Spaces – Bartosz Ciechanowski <https://ciechanow.ski/color-spaces/>
+* Color models and color spaces - Programming Design Systems <https://programmingdesignsystems.com/color/color-models-and-color-spaces/index.html#color-models-and-color-spaces-JDQ1fRD>
+* Understanding Success Criterion 1.4.3: Contrast (Minimum) | WAI | W3C <https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html#dfn-relative-luminance>
+* LCH is the best color space for UI | Deep dive into color theory | Atmos <https://atmos.style/blog/lch-color-space>
 * Perceptual Palettes | Accessible Color Palette Generator <https://perceptualpalettes.alexdunn.au/?c=Brand%23ff10fd%2CSecondary%23ffaa02%2CTertiary%232ca3c2%2CNeutral%23000000&l=90%2C80%2C70%2C60%2C35%2C21%2C12%2C6%2C2%2C1%2C0.5&n=false&i=true>
 * Fix Color Contrast – Web Accessibility for Text & UI Design - Pimp my Type <https://pimpmytype.com/color-contrast/?trk=comments_comments-list_comment-text>
 * colorate | Strumenti di schema di colori per designer e sviluppatori. <https://colorate.azurewebsites.net/it>
@@ -44,6 +52,9 @@
 * Colordot - A color picker for humans <https://color.hailpixel.com/#DABB90,6840BF,42A136,EAE0F5>
 * Accessible color palette builder <https://line47.com/accessible-color-matrix/>
 * hhhue: curated collection of beautiful color palettes | fffuel <https://fffuel.co/hhhue/>
+* How your colorblind and colorweak readers see your colors - Datawrapper Blog <https://blog.datawrapper.de/colorblindness-part1/>
+* ColorADD - ColorADD code as a color identification tool for color blind people. <https://www.coloradd.net/en/coloradd-code/>
+* Color.review - Colors that look and work great for everyone <https://color.review/check/>
 
 
 ## apps
@@ -71,7 +82,6 @@
 * PleaseJS <https://github.com/Fooidge/PleaseJS>
 * APCA Contrast Calculator <https://www.myndex.com/APCA/>
 * OKLCH Color Picker & Converter <https://oklch.com>
-* Color Review <https://color.review/>
 * HD gradients <https://gradient.style/>
 * Color Hex Color Codes <https://www.color-hex.com/>
 * davidmerfield/randomColor: A tiny script for generating attractive colors <https://github.com/davidmerfield/randomColor>

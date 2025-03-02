@@ -1158,7 +1158,6 @@
 * Exploring the CSS Paint API: Rounding Shapes | CSS-Tricks <https://css-tricks.com/exploring-the-css-paint-api-rounding-shapes/>
 * Cleanup.pictures - Remove objects, people, text and defects from any picture - 100% free <https://cleanup.pictures/>
 * Sticky Definition Lists | CSS-Tricks <https://css-tricks.com/sticky-definition-lists/>
-* Curves and Surfaces – Bartosz Ciechanowski <https://ciechanow.ski/curves-and-surfaces/>
 * Using Position Sticky With CSS Grid - Ahmad Shadeed <https://ishadeed.com/article/position-sticky-css-grid/>
 * A Clever Sticky Footer Technique | CSS-Tricks <https://css-tricks.com/a-clever-sticky-footer-technique/>
 * Migrate from Sheets API v3  |  Google Developers <https://developers.google.com/sheets/api/guides/migration#v4-api>
@@ -1348,14 +1347,7 @@
 * Where did the recycling symbol come from? Who designed it? | by Elvis Hsiao | Jul, 2023 | UX Collective <https://uxdesign.cc/where-did-the-recycling-symbol-come-from-who-designed-it-3c9584a1af6c>
 * Tesori d'archivio: le tavole illustrate di un trattato di fine '800 sull'allevamento di pappagalli - Frizzifrizzi <https://www.frizzifrizzi.it/2023/07/25/tesori-darchivio-le-tavole-illustrate-di-un-trattato-di-fine-800-sullallevamento-di-pappagalli/>
 * Developing a focus style for a themable design system - Ad Hoc <https://adhoc.team/2022/02/08/creating-focus-style-for-themable-design-system/>
-* Color.review - Colors that look and work great for everyone <https://color.review/check/FEDC2A-5A3B5D>
-* Color contrast checker, analyser and color suggestions | Polypane, The browser for ambitious web developers <https://polypane.app/color-contrast/#fg=%23107db5&bg=%23fff&level=aaa&format=hex&algo=WCAG2&filter=none>
-* Tanaguru Contrast-Finder <https://contrast-finder.tanaguru.com/>
-* How To Design For Colorblind People | LinkedIn <https://www.linkedin.com/posts/vitalyfriedman_ux-design-accessibility-activity-7087333591906430976-PHsN/>
-* Browse Fonts - Google Fonts <https://fonts.google.com/?preview.text_type=custom&query=inria>
-* Martian Mono - Google Fonts <https://fonts.google.com/specimen/Martian+Mono>
-* How your colorblind and colorweak readers see your colors - Datawrapper Blog <https://blog.datawrapper.de/colorblindness-part1/>
-* ColorADD - ColorADD code as a color identification tool for color blind people. <https://www.coloradd.net/en/coloradd-code/>
+
 * Modern CSS in Real Life - Chris Coyier <https://chriscoyier.net/2023/06/06/modern-css-in-real-life/>
 * Solving the accessibility palette riddle | by Christophe Drayton | Jul, 2023 | UX Collective <https://uxdesign.cc/solving-the-accessibility-palette-riddle-a816a7fb6168>
 * Accessible Brand Colors by Use All Five <https://abc.useallfive.com/>
