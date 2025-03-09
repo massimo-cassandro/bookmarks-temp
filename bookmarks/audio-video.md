@@ -23,3 +23,4 @@
 * Getting the correct HTML codecs parameter for an AV1 video - JakeArchibald.com <https://jakearchibald.com/2022/html-codecs-parameter-for-av1/>
 * Native Frame Rate Playback. This article talks about a novel HDMI… | by Netflix Technology Blog | Jun, 2023 | Netflix TechBlog <https://netflixtechblog.com/native-frame-rate-playback-6c87836a948>
 * A Netflix Web Performance Case Study | by Addy Osmani | Dev Channel | Medium <https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9>
+* ff-works (ex iFFmpeg) <https://www.ffworks.net/>

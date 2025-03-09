@@ -68,3 +68,11 @@
 * Create beautiful images of your code <https://www.ray.so>
 * Codeimg.io <https://codeimg.io/>
 * Code to Image Converter: Code Screenshots Online | 10015 Tools <https://10015.io/tools/code-to-image-converter>
+
+
+## ebooks
+* noDRM/DeDRM_tools: DeDRM tools for ebooks <https://github.com/noDRM/DeDRM_tools>
+* ciromattia/kcc: KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers. <https://github.com/ciromattia/kcc>
+* [Conversion Plugin] KFX Input - MobileRead Forums <https://www.mobileread.com/forums/showthread.php?t=291290>
+* Steps for DeDRM and KFX plugins with Kindle Book for Windows 10 PC · apprenticeharper/DeDRM_tools · Discussion #1581 <https://github.com/apprenticeharper/DeDRM_tools/discussions/1581>
+* Come Rimuovere il DRM dai File KFX-ZIP(la Migliore Soluzione) <https://www.epubor.com/come-rimuovere-il-drm-dai-file-kfx-zip.html>
