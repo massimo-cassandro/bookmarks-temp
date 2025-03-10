@@ -76,3 +76,4 @@
 * [Conversion Plugin] KFX Input - MobileRead Forums <https://www.mobileread.com/forums/showthread.php?t=291290>
 * Steps for DeDRM and KFX plugins with Kindle Book for Windows 10 PC · apprenticeharper/DeDRM_tools · Discussion #1581 <https://github.com/apprenticeharper/DeDRM_tools/discussions/1581>
 * Come Rimuovere il DRM dai File KFX-ZIP(la Migliore Soluzione) <https://www.epubor.com/come-rimuovere-il-drm-dai-file-kfx-zip.html>
+* Seeneva | Android smart comic book reader <https://seeneva.app/>
