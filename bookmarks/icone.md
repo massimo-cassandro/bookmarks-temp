@@ -9,7 +9,8 @@
 * Remix Icons <https://remixicon.com/>
 * Heroicons <https://heroicons.com/>
 * Font Awesome <https://fontawesome.com/>
-
+* Lucide <https://lucide.dev/>
+  
 ---
 
 * SVG Flag Icons <https://nucleoapp.com/svg-flag-icons>

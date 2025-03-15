@@ -10,6 +10,11 @@
 * Audacity ® | Free, open source, cross-platform audio software for multi-track recording and editing. <https://www.audacityteam.org/>
 * Sound – Bartosz Ciechanowski <https://ciechanow.ski/sound/>
 * lbl2cue / cue2lbl <http://grimblefritz.com/audacity/>
+* Royalty-Free Sounds, FX, Presets & More | Splice <https://splice.com/>
+* Freesound <https://freesound.org/>
+* joshwcomeau/use-sound: A React Hook for playing sound effects <https://github.com/joshwcomeau/use-sound>
+* goldfire/howler.js: Javascript audio library for the modern web. <https://github.com/goldfire/howler.js>
+* Theodeus/tuna: An audio effects library for the Web Audio API. <https://github.com/Theodeus/tuna?tab=readme-ov-file>
 
 ## Video
 * Build a Custom HTML5 Video Player With JavaScript <https://cloudinary.com/blog/build-a-custom-html5-video-player-with-javascript>

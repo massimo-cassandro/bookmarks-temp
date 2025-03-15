@@ -16,3 +16,7 @@
 * anime.js • JavaScript animation engine <https://animejs.com/>
 
 
+******
+
+* A Million Little Secrets • Josh W. Comeau <https://www.joshwcomeau.com/blog/whimsical-animations/?from=newsletter>
+

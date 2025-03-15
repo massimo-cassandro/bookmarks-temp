@@ -35,7 +35,6 @@
 * qarmin/czkawka: Multi functional app to find duplicates, empty folders, similar images etc. <https://github.com/qarmin/czkawka>
 * Advanced Topic: Setting Custom Exclusions via XML – Backblaze Help <https://help.backblaze.com/hc/en-us/articles/220973007-Advanced-Topic-Setting-Custom-Exclusions-via-XML>
 * Aerial - A free and open-source Mac Screen Saver <https://aerialscreensaver.github.io/>
-* Spline - Design tool for 3D web experiences <https://spline.design/>
 
 
 *****************
@@ -399,7 +398,6 @@
 * Glyphs <https://glyphsapp.com/>
 * Stellarium 1.0! <https://stellarium.org/release/2022/10/01/stellarium-1.0.html>
 * Morphing Editor download | SourceForge.net <https://sourceforge.net/projects/morphing-editor/>
-* blender.org - Home of the Blender project - Free and Open 3D Creation Software <https://www.blender.org/>
 * FreeCAD: Il tuo modellatore 3D parametrico <https://www.freecad.org/index.php?lang=it>
 
 
@@ -820,7 +818,6 @@
 * Font Subsetting Strategies: Content-Based vs Alphabetical – Cloud Four <https://cloudfour.com/thinks/font-subsetting-strategies-content-based-vs-alphabetical/>
 * Faster page loads using server think-time with Early Hints - Chrome Developers <https://developer.chrome.com/blog/early-hints/>
 * Three.js – JavaScript 3D Library <https://threejs.org/>
-* Lucide <https://lucide.dev/icon/alarm-check>
 * Optimising Largest Contentful Paint – CSS Wizardry – Web Performance Optimisation <https://csswizardry.com/2022/03/optimising-largest-contentful-paint/>
 * Building a tooltip component <https://web.dev/building-a-tooltip-component/>
 * How To Improve Largest Contentful Paint for Faster Load Times - Calibre <https://calibreapp.com/blog/largest-contentful-paint>
