@@ -390,7 +390,6 @@
 * antonreshetov/image-optimizer: A free and open source tool for optimizing images and vector graphics. <https://github.com/antonreshetov/image-optimizer>
 * Manuale utente di Utility ColorSync per il Mac - Supporto Apple (IT) <https://support.apple.com/it-it/guide/colorsync-utility/welcome/mac>
 * Fig <https://fig.io/>
-* Download Android Studio and SDK tools  |  Android Developers <https://developer.android.com/studio>
 * Vectr - Free Online Vector Graphics Editor <https://vectr.com/>
 * Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development — Smashing Magazine <https://www.smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/>
 * FontLab 8 <https://www.fontlab.com/font-editor/fontlab/>

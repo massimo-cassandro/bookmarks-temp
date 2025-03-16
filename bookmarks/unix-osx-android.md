@@ -21,4 +21,4 @@
 ## Android
 * Scarica Android Studio e strumenti per app <https://developer.android.com/studio?hl=it>
 * AirDroid Web | Manage your phone on web <https://web.airdroid.com/>
-
+* LineageOS – LineageOS Android Distribution <https://lineageos.org/>
