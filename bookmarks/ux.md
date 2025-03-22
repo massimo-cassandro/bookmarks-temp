@@ -7,7 +7,8 @@
 * Infinite scrolling o paginazione? Usabilità a confronto - Luca Rosati <https://www.lucarosati.it/blog/scrolling-infinito-paginazione>
 * It's not you. Bad doors are everywhere. - YouTube <https://www.youtube.com/watch?v=yY96hTb8WgI>
 * <https://medium.com/design-bootcamp/steering-the-future-a-new-vision-for-car-ux-1243843f289d>
-
+* I pulsanti progettati per non funzionare - Il Post <https://www.ilpost.it/2018/09/05/pulsanti-placebo/>
+* 
 ## architettura dell'informazione
 
 * Guida all’architettura dell’informazione - Luca Rosati | Architettura dell'informazione <https://www.lucarosati.it/blog/guida-architettura-informazione>

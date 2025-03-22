@@ -13,13 +13,41 @@
 * Colorable <https://colorable.jxnblk.com/>
 * Palette Generator <https://www.learnui.design/tools/data-color-picker.html#palette>
 * Ruota colore, un generatore di palette colore | Adobe Color <https://color.adobe.com/it/create/color-wheel>
+
+
+## contrasto, luminance
 * EightShapes Contrast Grid <https://contrast-grid.eightshapes.com>
 * Randoma11y - Accessible color combinations <https://randoma11y.com/>
 * Accessible Color Contrast Tool (Make Any Color Accessible!) <https://www.learnui.design/tools/accessible-color-generator.html>
 * Color wheel | Use color theory and color calculator | Atmos <https://atmos.style/color-wheel>
 * LCH and OKLCH color tool | Create accessible color palettes | Atmos <https://atmos.style/playground>
 * Tanaguru Contrast-Finder <https://contrast-finder.tanaguru.com/>
-* 
+* Contrast Ratio - WCAG Color Contrast Checker <https://www.siegemedia.com/contrast-ratio>
+* CSS colors - CSS: Cascading Style Sheets | MDN <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_colors>
+  * Color picker tool - CSS: Cascading Style Sheets | MDN <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool>
+* Color Relative Luminance Calculator (WCAG) <https://contrastchecker.online/color-relative-luminance-calculator>
+* Online calculator: Relative luminance and contrast ratio <https://planetcalc.com/7779/>
+* Mixing Colours of Equal Luminance — Part 1 | by Colin Shanley | Design + Sketch | Medium <https://medium.com/sketch-app-sources/mixing-colours-of-equal-luminance-part-1-41f69518d647>
+* Mixing Colours of Equal Luminance — Part 2 | by Colin Shanley | Design + Sketch | Medium <https://medium.com/sketch-app-sources/mixing-colours-of-equal-luminance-part-2-3e10c07c947c>
+
+***********
+
+* Converting Color Spaces in JavaScript | CSS-Tricks <https://css-tricks.com/converting-color-spaces-in-javascript/>
+* Pika • Super High Fives <https://superhighfives.com/pika>
+* The “Dark Yellow Problem” in Design System Color Palettes | by Lodestar Design | Apr, 2022 | Medium <https://medium.com/@lodestar-design/the-dark-yellow-problem-in-design-system-color-palettes-a0db1eedc99d>
+* Web Accessibility: Understanding Colors and Luminance - Accessibility | MDN <https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_Colors_and_Luminance>
+* JavaScript Color Functions. Colors are typically expressed through… | by Jason Sturges | The Startup | Medium <https://medium.com/swlh/javascript-color-functions-c91efabdc155>
+* Color Luminance: perceived brightness, luminance and contrast <http://www.workwithcolor.com/color-luminance-2233.htm>
+* The Contrast Triangle <https://contrast-triangle.com/>
+* Upgrading colors to HD on the web – Bram.us <https://www.bram.us/2022/10/13/upgrading-colors-to-hd-on-the-web/>
+* Mixing and combining red and blue in data visualization | by Theresa-Marie Rhyne | UX Collective <https://uxdesign.cc/mixing-and-combining-red-and-blue-in-data-visualization-cd2c8cfd9c8>
+* Colour management, part 1 <https://bjango.com/articles/colourmanagementgamut/>
+* Colour management, part 2 <https://bjango.com/articles/colourmanagementgamma/>
+* Colour management, part 3 <https://bjango.com/articles/colourmanagementsettings/>
+* HEX to Pantone - Best Online Tool to Convert HEX Color to Pantone Color <https://codebeautify.org/hex-to-pantone-converter>
+
+
+
 ---
 
 * Designing accessible color systems <https://stripe.com/blog/accessible-color-systems>
@@ -75,7 +103,6 @@
 * CSS Gradient Generator <https://www.joshwcomeau.com/gradient-generator/>
 * CSS Shadow Gradients — Generator [Fast & Easy] <https://alvarotrigo.com/shadow-gradients/#how-to-use>
 * CSS filter generator to convert from black to target hex color <https://codepen.io/sosuke/pen/Pjoqqp>
-* Color picker tool - CSS: Cascading Style Sheets | MDN <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool>
 * Sass Color Generator <http://scg.ar-ch.org/>
 * cccreate → carefully curated collection of tools for web creators <https://cccreate.co/>
 * Name that Color - Chirag Mehta : chir.ag <https://chir.ag/projects/name-that-color/#9A0B9A>
@@ -104,24 +131,4 @@
 * List of Crayola crayon colors - Wikipedia <https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors>
 * Lista dei colori - Wikipedia <https://it.wikipedia.org/wiki/Lista_dei_colori>
 * Lists of colors - Wikipedia <https://en.wikipedia.org/wiki/Lists_of_colors>
-
-## Varie
-* Converting Color Spaces in JavaScript | CSS-Tricks <https://css-tricks.com/converting-color-spaces-in-javascript/>
-* Pika • Super High Fives <https://superhighfives.com/pika>
-* The “Dark Yellow Problem” in Design System Color Palettes | by Lodestar Design | Apr, 2022 | Medium <https://medium.com/@lodestar-design/the-dark-yellow-problem-in-design-system-color-palettes-a0db1eedc99d>
-* Web Accessibility: Understanding Colors and Luminance - Accessibility | MDN <https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_Colors_and_Luminance>
-* Online calculator: Relative luminance and contrast ratio <https://planetcalc.com/7779/>
-* Color Relative Luminance Calculator (WCAG) <https://contrastchecker.online/color-relative-luminance-calculator>
-* JavaScript Color Functions. Colors are typically expressed through… | by Jason Sturges | The Startup | Medium <https://medium.com/swlh/javascript-color-functions-c91efabdc155>
-* Color Luminance: perceived brightness, luminance and contrast <http://www.workwithcolor.com/color-luminance-2233.htm>
-* Mixing Colours of Equal Luminance — Part 1 | by Colin Shanley | Design + Sketch | Medium <https://medium.com/sketch-app-sources/mixing-colours-of-equal-luminance-part-1-41f69518d647>
-* Mixing Colours of Equal Luminance — Part 2 | by Colin Shanley | Design + Sketch | Medium <https://medium.com/sketch-app-sources/mixing-colours-of-equal-luminance-part-2-3e10c07c947c>
-* The Contrast Triangle <https://contrast-triangle.com/>
-* Upgrading colors to HD on the web – Bram.us <https://www.bram.us/2022/10/13/upgrading-colors-to-hd-on-the-web/>
-* Mixing and combining red and blue in data visualization | by Theresa-Marie Rhyne | UX Collective <https://uxdesign.cc/mixing-and-combining-red-and-blue-in-data-visualization-cd2c8cfd9c8>
-* Colour management, part 1 <https://bjango.com/articles/colourmanagementgamut/>
-* Colour management, part 2 <https://bjango.com/articles/colourmanagementgamma/>
-* Colour management, part 3 <https://bjango.com/articles/colourmanagementsettings/>
-* HEX to Pantone - Best Online Tool to Convert HEX Color to Pantone Color <https://codebeautify.org/hex-to-pantone-converter>
-
 

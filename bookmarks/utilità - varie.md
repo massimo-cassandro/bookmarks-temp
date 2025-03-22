@@ -80,3 +80,16 @@
 
 ## ??
 * Slopes | Tinkersynth <https://tinkersynth.com/slopes>
+
+
+## software mac
+* espanso - Cross-platform Text Expander written in Rust <https://espanso.org/>
+* Introduction · macOS Setup Guide <https://sourabhbajaj.com/mac-setup/>
+* Titanium Software | Operating system utilities for Mac - OnyX <https://www.titanium-software.fr/en/onyx.html>
+* KeepingYouAwake: Prevents your Mac from going to sleep <https://keepingyouawake.app/>
+* IntelliScape Solutions <https://intelliscapesolutions.com/apps/caffeine>
+* Keka - il compressore di macOS <https://www.keka.io/it/>
+* Go2Shell - ZipZapMac <https://zipzapmac.com/Go2Shell>
+* CodeKit - THE Mac App for Web Developers <https://codekitapp.com/>
+* Aerial - A free and open-source Mac Screen Saver <https://aerialscreensaver.github.io/>
+* qarmin/czkawka: Multi functional app to find duplicates, empty folders, similar images etc. <https://github.com/qarmin/czkawka>

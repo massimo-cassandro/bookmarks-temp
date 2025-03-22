@@ -198,8 +198,6 @@
 * 12 Effective Guidelines For Breadcrumb Usability And SEO | by UsabilityGeek | UsabilityGeek | Medium <https://medium.com/usabilitygeek/12-effective-guidelines-for-breadcrumb-usability-and-seo-71de2202bdb9>
 * SVG generative mountain ridge dividers - Alistair Shepherd <https://alistairshepherd.uk/writing/svg-generative-ridges/>
 * MailChimp UX Issue 17 - Systemic Design <https://us5.campaign-archive.com/?u=7e093c5cf4&id=ead8a72012&e=ecb25a3f93>
-* Mixing Colours of Equal Luminance — Part 2 | by Colin Shanley | Design + Sketch | Medium <https://medium.com/sketch-app-sources/mixing-colours-of-equal-luminance-part-2-3e10c07c947c>
-* Mixing Colours of Equal Luminance — Part 1 | by Colin Shanley | Design + Sketch | Medium <https://medium.com/sketch-app-sources/mixing-colours-of-equal-luminance-part-1-41f69518d647>
 * Google Design <https://design.google/>
 * Building a design system with Eleventy | Trys Mudford <https://www.trysmudford.com/blog/eleventy-design-system/>
 * Ethical Design Guide <https://ethicaldesign.guide/>

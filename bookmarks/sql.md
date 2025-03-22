@@ -3,6 +3,7 @@
 ## mysql
 * DBeaver Community | Free Universal Database Tool <https://dbeaver.io/>
 * CSV To SQL Converter <https://www.convertcsv.com/csv-to-sql.htm>
+* IndigoStack | IndigoStack <https://indigostack.app/>
 
 
 ## sqlite
