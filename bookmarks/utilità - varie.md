@@ -8,6 +8,10 @@
 
 ---
 
+* Project IDX <https://idx.dev/>
+
+---
+
 * Shiki - Syntax highlighter <https://shiki.style/>
 * Prism <https://prismjs.com/>
 * Component toolkit for creating live-running code editing experiences | Sandpack <https://sandpack.codesandbox.io/>
