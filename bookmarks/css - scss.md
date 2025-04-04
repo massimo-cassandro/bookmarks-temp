@@ -25,7 +25,7 @@
 
 ---
 
-
+* Creating True Dotted Borders with CSS | by Lucas Lemonnier | Medium <https://medium.com/@luclemo/creating-true-dotted-borders-with-css-233f296d8145>
 * Next-level frosted glass with backdrop-filter • Josh W. Comeau <https://www.joshwcomeau.com/css/backdrop-filter/>
 * How To Center a Div <https://www.joshwcomeau.com/css/center-a-div/>
 * Centering in CSS <https://web.dev/articles/centering-in-css>
