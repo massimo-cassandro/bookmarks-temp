@@ -4,6 +4,7 @@
 
 ***
 
+* javascript - Define global variable with webpack - Stack Overflow <https://stackoverflow.com/questions/37656592/define-global-variable-with-webpack/40416826#40416826>
 * jaketrent/html-webpack-template: a better default template for html-webpack-plugin <https://github.com/jaketrent/html-webpack-template>
 * html-webpack-template/index.html at 86f285d5c790a6c15263f5cc50fd666d51f974fd · jaketrent/html-webpack-template <https://github.com/jaketrent/html-webpack-template/blob/86f285d5c790a6c15263f5cc50fd666d51f974fd/index.html>
 * Understanding the html-webpack-plugin | by YashPatel | Medium <https://medium.com/@laners.org/understanding-the-html-webpack-plugin-64627c71bb4f>
