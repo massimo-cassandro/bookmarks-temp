@@ -300,17 +300,9 @@
 * Learn CRUD Operations in JavaScript by Building TODO APP <https://www.freecodecamp.org/news/learn-crud-operations-in-javascript-by-building-todo-app/>
 * Processing Arrays non-destructively: `for-of` vs. `.reduce()` vs. `.flatMap()` <https://2ality.com/2022/05/processing-arrays-non-destructively.html>
 * ✨♻️ JavaScript Visualized: Event Loop - DEV Community 👩‍💻👨‍💻 <https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif>
-* The JavaScript Modules Handbook – Complete Guide to ES Modules and Module Bundlers <https://www.freecodecamp.org/news/javascript-es-modules-and-module-bundlers/>
-* Qix-/color: Javascript color conversion and manipulation library <https://github.com/Qix-/color>
 * Sandworm - Sandworm <https://docs.sandworm.dev/>
 * https://unjs.io/ <https://unjs.io/>
 * The gotcha of unhandled promise rejections - JakeArchibald.com <https://jakearchibald.com/2023/unhandled-rejections/>
-* Nunjucks <https://mozilla.github.io/nunjucks/>
-* ScrollyVideo.js <https://scrollyvideo.js.org/>
-* Code Snippets <https://www.joshwcomeau.com/snippets/>
-* How to import HTML template file into JavaScript module | by Marian Čaikovski | Medium <https://marian-caikovski.medium.com/how-to-import-html-template-file-into-javascript-module-265746167974>
-* Getting the Height of a Hidden Element | Front End Coding <https://frontendcoding.com/getting-the-height-of-a-hidden-element/>
-* Using templates and slots - Web APIs | MDN <https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_templates_and_slots#using_templates_with_web_components>
 * local-cors-proxy - npm <https://www.npmjs.com/package/local-cors-proxy>
 * File Upload Security and Malware Protection <https://austingil.com/file-upload-security-and-malware-protection/>
 * How to Get All Custom Properties on a Page in JavaScript | CSS-Tricks - CSS-Tricks <https://css-tricks.com/how-to-get-all-custom-properties-on-a-page-in-javascript/>
@@ -791,7 +783,6 @@
 * Building a button component <https://web.dev/building-a-button-component/>
 * How to Use JSX Without React. JSX gives us a great way to handle… | by Kartik Nair | Better Programming <https://betterprogramming.pub/how-to-use-jsx-without-react-21d23346e5dc>
 * Welcome to Processing! / Processing.org <https://processing.org/>
-* Color.js: Let’s get serious about color <https://colorjs.io/>
 * How To Set Up a GraphQL API Server in Node.js | Tania Rascia <https://www.taniarascia.com/graphql-server-node/>
 * Priority Hints: Influence How Browsers Fetch Resources - Calibre <https://calibreapp.com/blog/priority-hints>
 * Don't fight the browser preload scanner <https://web.dev/preload-scanner/>

@@ -36,7 +36,7 @@
 * Collections <https://phuoc.ng/collections/>
 * Textik - ASCII diagrams editor <https://textik.com/#ab4260274eed7516> 
 * Make a Flippin’ 3D Countdown with CSS & JavaScript | Viget <https://www.viget.com/articles/make-a-flippin-3d-countdown-with-css-and-javascript/>
-
+* Code Snippets <https://www.joshwcomeau.com/snippets/>
 
 ## device check
 * mydevice.io : web devices capabilities <https://www.mydevice.io/>

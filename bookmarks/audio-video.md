@@ -17,6 +17,7 @@
 * Theodeus/tuna: An audio effects library for the Web Audio API. <https://github.com/Theodeus/tuna?tab=readme-ov-file>
 
 ## Video
+* ScrollyVideo.js <https://scrollyvideo.js.org/>
 * Build a Custom HTML5 Video Player With JavaScript <https://cloudinary.com/blog/build-a-custom-html5-video-player-with-javascript>
 * paulirish/lite-youtube-embed: A faster youtube embed. <https://github.com/paulirish/lite-youtube-embed>
 * playable <https://wix.github.io/playable/>

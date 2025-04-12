@@ -14,6 +14,9 @@
 * Palette Generator <https://www.learnui.design/tools/data-color-picker.html#palette>
 * Ruota colore, un generatore di palette colore | Adobe Color <https://color.adobe.com/it/create/color-wheel>
 
+## colori / JS
+* Qix-/color: Javascript color conversion and manipulation library <https://github.com/Qix-/color>
+* Color.js: Let’s get serious about color • Color.js <https://colorjs.io/>
 
 ## contrasto, luminance
 * EightShapes Contrast Grid <https://contrast-grid.eightshapes.com>
