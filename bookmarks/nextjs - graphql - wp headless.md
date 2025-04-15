@@ -40,7 +40,13 @@
 * Using Headless WordPress with Next.js and Vercel <https://vercel.com/guides/wordpress-with-vercel>
 * Local - Local WordPress development made simple <https://localwp.com/>
 * Introduction - WpGraphQL Gutenberg Docs <https://wp-graphql-gutenberg.netlify.app/>
-*  <https://www.wpgraphql.com/>
+* GraphQL API for WordPress <https://www.wpgraphql.com/>
+* @wordpress/create-block - npm <https://www.npmjs.com/package/@wordpress/create-block>
+* WordPress Developer Resources | Official WordPress Developer Resources <https://developer.wordpress.org/>
+* Create a Block Tutorial | Block Editor Handbook | WordPress Developer Resources <https://developer.wordpress.org/block-editor/tutorials/create-block/>
+* Block Lab - Custom Gutenberg Blocks Made Easy! <https://getblocklab.com/>
+* Page Builder Gutenberg Blocks – CoBlocks – Plugin WordPress | WordPress.org Italia <https://it.wordpress.org/plugins/coblocks/>
+
   
 ---
 

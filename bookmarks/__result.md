@@ -598,7 +598,6 @@
 * Snipit - Code snippets manager for teams and individuals <https://snipit.io/>
 * Adaptive Loading - Improving Web Performance on low-end devices - DEV Community <https://dev.to/addyosmani/adaptive-loading-improving-web-performance-on-low-end-devices-1m69>
 * Front-end Developer Handbook 2019 - Learn the entire JavaScript, CSS and HTML development practice! <https://frontendmasters.com/books/front-end-handbook/2019/>
-* AddyOsmani.com - Native image lazy-loading for the web! <https://addyosmani.com/blog/lazy-loading/>
 * Bit: The platform for the modular web <https://bit.dev/>
 * Tools - Microsoft Edge Developer <https://developer.microsoft.com/en-us/microsoft-edge/tools/>
 * webhint, the hinting engine for web best practices <https://webhint.io/>
@@ -606,13 +605,7 @@
 * Vanilla Javascript Parallax Library — Rellax <https://dixonandmoe.com/rellax/>
 * An Overview of Scroll Technologies | CSS-Tricks <https://css-tricks.com/an-overview-of-scroll-technologies/>
 * Performance Budget Builder | Brad Frost <https://bradfrost.com/blog/post/performance-budget-builder/>
-* @wordpress/create-block - npm <https://www.npmjs.com/package/@wordpress/create-block>
-* WordPress Developer Resources | Official WordPress Developer Resources <https://developer.wordpress.org/>
-* Create a Block Tutorial | Block Editor Handbook | WordPress Developer Resources <https://developer.wordpress.org/block-editor/tutorials/create-block/>
-* Block Lab - Custom Gutenberg Blocks Made Easy! <https://getblocklab.com/>
-* Page Builder Gutenberg Blocks – CoBlocks – Plugin WordPress | WordPress.org Italia <https://it.wordpress.org/plugins/coblocks/>
 * clipboard.js — Copy to clipboard without Flash <https://clipboardjs.com/>
-* showdownjs/showdown: A bidirectional Markdown to HTML to Markdown converter written in Javascript <https://github.com/showdownjs/showdown>
 * vanilla-lazyload | LazyLoad is a fast, lightweight and flexible script that speeds up your web application by loading images only as they enter the viewport. LazyLoad supports responsive images. <https://www.andreaverlicchi.eu/vanilla-lazyload/>
 * bfred-it/object-fit-images: 🗻 Polyfill object-fit/object-position on <img>: IE9, IE10, IE11, Edge, Safari, ... <https://github.com/bfred-it/object-fit-images/>
 *  **DUP** A mighty, modern style linter · stylelint <https://stylelint.io/>
