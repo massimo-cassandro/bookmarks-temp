@@ -12,6 +12,7 @@
 * Building a Database Driven Eleventy Site <https://www.raymondcamden.com/2021/04/15/building-a-database-driven-eleventy-site>
 * https://github.com/craigbuckler/11ty-starter
 * Creating a production-ready Eleventy project with webpack, Babel and Sass | by Matt Stow | Medium <https://medium.com/@stowball/creating-a-production-ready-eleventy-project-with-webpack-babel-and-sass-89a740886092>
+* How To Use Webpack in an Eleventy Project - DEV Community <https://dev.to/derrickreimer/how-to-use-webpack-in-an-eleventy-project-272j>
 
 ## Altri Static sites generators / Headless CMS 
 * Hugo The world’s fastest framework for building websites <https://gohugo.io/>
