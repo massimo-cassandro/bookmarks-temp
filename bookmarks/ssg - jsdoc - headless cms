@@ -1,18 +1,19 @@
-# JSDOC
+# SSG / JSDOC / HEADLESS CMS
 
+## jsdoc
 * docsbydoxdox/doxdox: 📘 JSDoc to Markdown, Bootstrap, and custom JavaScript template documentation generator. <https://github.com/docsbydoxdox/doxdox>
 * Jsdoc cheatsheet <https://devhints.io/jsdoc>
 * TypeScript without TypeScript -- JSDoc superpowers <https://fettblog.eu/typescript-jsdoc-superpowers/>
 * Release the docs! <http://sassdoc.com/>
 
-
-## Static sites generators
-
-
+## Eleventy
 * Eleventy is a simpler static site generator. <https://www.11ty.dev/>
-  * A Guide to Building a Blog in Eleventy <https://www.raymondcamden.com/2022/01/19/a-guide-to-building-a-blog-in-eleventy>
-  * Building a Database Driven Eleventy Site <https://www.raymondcamden.com/2021/04/15/building-a-database-driven-eleventy-site>
-  * https://github.com/craigbuckler/11ty-starter
+* A Guide to Building a Blog in Eleventy <https://www.raymondcamden.com/2022/01/19/a-guide-to-building-a-blog-in-eleventy>
+* Building a Database Driven Eleventy Site <https://www.raymondcamden.com/2021/04/15/building-a-database-driven-eleventy-site>
+* https://github.com/craigbuckler/11ty-starter
+* Creating a production-ready Eleventy project with webpack, Babel and Sass | by Matt Stow | Medium <https://medium.com/@stowball/creating-a-production-ready-eleventy-project-with-webpack-babel-and-sass-89a740886092>
+
+## Altri Static sites generators / Headless CMS 
 * Hugo The world’s fastest framework for building websites <https://gohugo.io/>
 * https://www.gatsbyjs.com/docs
 
@@ -27,8 +28,6 @@
 * ProcessWire: An open source CMS with a powerful API <https://processwire.com/>
 * Outstatic - A Static Site CMS for Next.js <https://outstatic.com/>
 * Random Data Generator <http://www.randat.com/>
-
-
 
 ## docs generators
 
