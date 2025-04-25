@@ -4,9 +4,12 @@
 * Markdown Tables generator - TablesGenerator.com <https://www.tablesgenerator.com/markdown_tables>
 
 
+## Markdwn & webpack
+* Making a Markdown Blog Using Webpack | omardelarosa.com | Omar Delarosa <https://www.omardelarosa.com/posts/2017/01/03/making-a-markdown-blog-using-webpack>
+* peerigon/markdown-loader: markdown loader for webpack <https://github.com/peerigon/markdown-loader>
+
+
 ## parser
-
-
 * Marked Documentation <https://marked.js.org/>
 * markdown-it <https://github.com/markdown-it/markdown-it>
 * showdownjs/showdown: A bidirectional Markdown to HTML to Markdown converter written in Javascript <https://github.com/showdownjs/showdown?tab=readme-ov-file>

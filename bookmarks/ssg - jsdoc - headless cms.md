@@ -9,10 +9,10 @@
 ## Eleventy
 * Eleventy is a simpler static site generator. <https://www.11ty.dev/>
 * A Guide to Building a Blog in Eleventy <https://www.raymondcamden.com/2022/01/19/a-guide-to-building-a-blog-in-eleventy>
+* vseventer/eleventy-webpack-boilerplate: Starter kit for using Eleventy with webpack, backed by Forestry. <https://github.com/vseventer/eleventy-webpack-boilerplate>
 * Building a Database Driven Eleventy Site <https://www.raymondcamden.com/2021/04/15/building-a-database-driven-eleventy-site>
 * https://github.com/craigbuckler/11ty-starter
 * Creating a production-ready Eleventy project with webpack, Babel and Sass | by Matt Stow | Medium <https://medium.com/@stowball/creating-a-production-ready-eleventy-project-with-webpack-babel-and-sass-89a740886092>
-* How To Use Webpack in an Eleventy Project - DEV Community <https://dev.to/derrickreimer/how-to-use-webpack-in-an-eleventy-project-272j>
 
 ## Altri Static sites generators / Headless CMS 
 * Hugo The world’s fastest framework for building websites <https://gohugo.io/>
