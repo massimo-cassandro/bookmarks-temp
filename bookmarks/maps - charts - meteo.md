@@ -12,7 +12,9 @@
 * Chartist - Simple responsive charts <https://gionkunz.github.io/chartist-js/>
 * Frappe Charts: Simple and Modern SVG Charts <https://frappe.io/charts>
 * Semiotic is a data visualization framework for React. <https://semiotic.nteract.io/>
+* Frappe Gantt <https://frappe.io/gantt>
 
+  
 ## Maps
 
 * GeoNames <https://www.geonames.org/>
