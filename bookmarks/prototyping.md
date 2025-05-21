@@ -15,6 +15,7 @@
 
 ## penpot
 * Penpot - Design Freedom for Teams <https://penpot.app/>
+* Penpot | Learning Center <https://penpot.app/learning-center>
 * Creating Design Systems With Penpot <https://penpot.app/blog/penpot-for-design-systems-101/>
 * User guide <https://help.penpot.app/user-guide/>
 * Penpot | Plugins <https://penpot.app/penpothub/plugins>
