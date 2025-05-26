@@ -22,7 +22,6 @@
 * Snap.svg - Home <http://snapsvg.io/>
 * SVG.js v3.0 | Home <https://svgjs.dev/>
 * Using Javascript with SVG <https://www.petercollingridge.co.uk/tutorials/svg/interactive/javascript/>
-* Snap.svg <http://snapsvg.io/>
 * Greensock <https://greensock.com/>
 * SVG Anima <https://svganima.com/app/>
 * SVGator <https://www.svgator.com/>
