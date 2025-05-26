@@ -29,18 +29,14 @@
 * SVG: Scalable Vector Graphics | MDN <https://developer.mozilla.org/en-US/docs/Web/SVG>
 * SVG Waves - Instantly generate waves <https://www.svgwaves.io/>
 * SSSVG: An Interactive SVG Reference | fffuel <https://www.fffuel.co/sssvg/>
-* Free SVG generators, color tools & web design tools <https://www.fffuel.co/>
 * Drawing Realistic Clouds with SVG and CSS | CSS-Tricks <https://css-tricks.com/drawing-realistic-clouds-with-svg-and-css/>
 * Creating comic book speech bubbles with SVG and javascript – The Humaan Blog <https://humaan.com/blog/creating-comic-book-speech-bubbles-with-svg-and-javascript/>
 * SVG Repo - Free SVG Vectors and Icons <https://www.svgrepo.com/>
 * Download most famous brands logos in SVG <http://logosvg.com/>
 * SVG Generators — Smashing Magazine <https://www.smashingmagazine.com/2021/03/svg-generators/>
 * Accessible SVGs | CSS-Tricks <https://css-tricks.com/accessible-svgs/>
-* Convert2Svg - A Simple Image To SVG Vector Converter <https://convert2svg.com/>
 * Hero Patterns | Free repeatable SVG background patterns for your web projects <http://www.heropatterns.com/>
-* SvgPathEditor <https://yqnn.github.io/svg-path-editor/>
 * Home - SVG Artista <https://svgartista.net/>
-* SVG Path Visualizer <https://svg-path-visualizer.netlify.app/#M140%2020C73%2020%2020%2074%2020%20140c0%20135%20136%20170%20228%20303%2088-132%20229-173%20229-303%200-66-54-120-120-120-48%200-90%2028-109%2069-19-41-60-69-108-69z>
 * SVG Filters 101 | Codrops <https://tympanus.net/codrops/2019/01/15/svg-filters-101/>
 * SVG Filters <https://yoksel.github.io/svg-filters/#/>
 * Squircley | SVG Squircle Maker <https://squircley.app/>
@@ -67,7 +63,6 @@
 * A complete guide to using CSS filters with SVGs - LogRocket Blog <https://blog.logrocket.com/complete-guide-using-css-filters-svgs>
 * SVG Viewer - View, save, and optimize SVGs <https://www.svgviewer.dev/>
 * Clipper 6 Info and Examples <https://jsclipper.sourceforge.net/6.1.3.1/index.html?p=main_demo.html>
-* SVG Stuff <http://sean.brunnock.com/SVG/>
 * SVG circles with inset-shadow <https://codepen.io/mathiesjanssen/pen/QgLzmM>
 * Doing an Inset Drop-shadow With SVG Filters — Tab Completion <https://www.xanthir.com/b4Yv0>
 * Draw SVG rope using JavaScript · Muffin Man <https://muffinman.io/blog/draw-svg-rope-using-javascript/>
@@ -78,5 +73,4 @@
 * Vectorpea | Online Vector Editor <https://www.vectorpea.com/>
 * Making noisy SVGs — Daniel Immke <https://daniel.do/article/making-noisy-svgs/>
 * SVG Flag Icons <https://nucleoapp.com/svg-flag-icons>
-
 
