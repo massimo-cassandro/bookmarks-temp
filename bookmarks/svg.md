@@ -20,9 +20,8 @@
 
 * vivus.js - svg animation <https://maxwellito.github.io/vivus/>
 * Snap.svg - Home <http://snapsvg.io/>
-* SVG.js v3.0 | Home <https://svgjs.dev/docs/3.0/>
+* SVG.js v3.0 | Home <https://svgjs.dev/>
 * Using Javascript with SVG <https://www.petercollingridge.co.uk/tutorials/svg/interactive/javascript/>
-* svgjs <https://svgjs.dev/docs/3.1/>
 * Snap.svg <http://snapsvg.io/>
 * Greensock <https://greensock.com/>
 * SVG Anima <https://svganima.com/app/>
