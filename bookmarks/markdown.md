@@ -43,3 +43,5 @@
 * Mermaid | Diagramming and charting tool <https://mermaid.js.org/>
 * MacDown: The open source Markdown editor for macOS <https://macdown.uranusjr.com/>
 * Markwhen. Professional planning and calendar-ing tools.  <https://markwhen.com/> 
+* sbarex/QLMarkdown: macOS Quick Look extension for Markdown files. <https://github.com/sbarex/QLMarkdown>
+
