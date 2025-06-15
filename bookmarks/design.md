@@ -2,6 +2,9 @@
 
 
 ## Design / Tipografia / Style manuals
+
+
+* Calm design: progettare esperienze digitali che riducono l’ansia delle persone - Luca Rosati <https://www.lucarosati.it/blog/calm-design>
 * Design Patterns Catalogue  <https://catalogue.projectsbyif.com/>
 * Laws of UX  <https://lawsofux.com/>
 * Golden Ratio Typography (GRT) Calculator <https://grtcalculator.com/>
