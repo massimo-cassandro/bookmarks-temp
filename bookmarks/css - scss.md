@@ -18,6 +18,7 @@
 
 ---
 
+* Partial Keyframes • Josh W. Comeau <https://www.joshwcomeau.com/animation/partial-keyframes/>
 * How to Fix Issues With CSS Position Sticky Not Working? - Designcise <https://www.designcise.com/web/tutorial/how-to-fix-issues-with-css-position-sticky-not-working>
 * debug horiz scroll bar (https://gist.github.com/cuth/c1ddf2b1ce2fb07e512a)
 * Smooth Height Transition | CSS Animation | Web Development | LabEx <https://labex.io/tutorials/css-smooth-transition-of-dynamic-heights-35207>
