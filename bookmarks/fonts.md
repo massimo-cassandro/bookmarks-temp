@@ -25,6 +25,7 @@
 
 
 ## fonts interessanti
+* Agrandir - Free to Try Font with 74 Styles – Pangram Pangram Foundry <https://pangrampangram.com/products/agrandir-wide>
 * Radio Canada - Google Fonts <https://fonts.google.com/specimen/Radio+Canada>
 * Atkinson Hyperlegible Font - Braille Institute <https://www.brailleinstitute.org/freefont/>
 * Atkinson Hyperlegible - Google Fonts <https://fonts.google.com/specimen/Atkinson+Hyperlegible>
