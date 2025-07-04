@@ -13,14 +13,25 @@
 * Online Mockup Generator [9641 Templates] - Mediamodifier <https://mediamodifier.com/>
 
 ---
+* SVG.js v3.0 | Home <https://svgjs.dev/>
 * Convert2Svg - A Simple Image To SVG Vector Converter <https://convert2svg.com/>
 * SVGR - Transforms SVG into React Components. - SVGR <https://react-svgr.com/>
 
 ---
 
+* SVG Tutorial - Learn how to code images in HTML with SVG <https://svg-tutorial.com/>
+* Arc - SVG Tutorial <https://svg-tutorial.com/editor/arc>
+
+---
+
+* SVG Coding Examples: Useful Recipes For Writing Vectors By Hand — Smashing Magazine <https://www.smashingmagazine.com/2024/09/svg-coding-examples-recipes-writing-vectors-by-hand/>
+* Decoding The SVG path Element: Line Commands — Smashing Magazine <https://www.smashingmagazine.com/2025/06/decoding-svg-path-element-line-commands/>
+* Decoding The SVG path Element: Curve And Arc Commands — Smashing Magazine <https://www.smashingmagazine.com/2025/06/decoding-svg-path-element-curve-arc-commands/>
+
+---
+
 * vivus.js - svg animation <https://maxwellito.github.io/vivus/>
 * Snap.svg - Home <http://snapsvg.io/>
-* SVG.js v3.0 | Home <https://svgjs.dev/>
 * Using Javascript with SVG <https://www.petercollingridge.co.uk/tutorials/svg/interactive/javascript/>
 * Greensock <https://greensock.com/>
 * SVG Anima <https://svganima.com/app/>
