@@ -65,7 +65,6 @@
 
 * HTML Includes That Work Today | Filament Group, Inc. <https://www.filamentgroup.com/lab/html-includes/>
 * anseki/gulp-htmlclean: Simple and safety HTML/SVG cleaner to minify without changing its structure. <https://github.com/anseki/gulp-htmlclean>
-* Can I use... <http://caniuse.com/>
 * cure53/DOMPurify: DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo: <https://github.com/cure53/DOMPurify>
 * The ultimate guide to iframes - LogRocket Blog <https://blog.logrocket.com/the-ultimate-guide-to-iframes/>
 * HTML 5.2: 4.13. Common idioms without dedicated elements <https://www.w3.org/TR/html52/common-idioms-without-dedicated-elements.html>
@@ -1311,7 +1310,6 @@
 *  **DUP** Designing for colorblindness - The Verge <https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle>
 * Space Grotesk - Google Fonts <https://fonts.google.com/specimen/Space+Grotesk>
 * Spinning Diagrams with CSS <https://x.st/spinning-diagrams-with-css/>
-* A CSS-only 3D Zig-Zag edge <https://css-tip.com/3d-zig-zag-edge/>
 * CSS Blend Modes <https://garden.bradwoods.io/notes/css/blend-modes>
 * Why your z-index isn't working - DEV Community <https://dev.to/ibn_abubakre/why-your-z-index-isn-t-working-i6j>
 * OKLCH Color Picker & Converter <https://oklch.com/#70,0.1,251,100>

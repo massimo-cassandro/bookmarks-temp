@@ -7,15 +7,16 @@
 * FLEX: A simple visual cheatsheet for flexbox <https://flexbox.malven.co/>
 * CSS Cursors! <https://csscursor.info/>
 * PurgeCSS - Remove unused CSS <https://purgecss.com/>
-* Can I use... <http://caniuse.com/>
 * ✿ dabblet.com <http://dabblet.com/> 
 * QQ - Quantity Queries Builder <http://quantityqueries.com/>
+* Quantity queries using has() selector <https://css-tip.com/quantity-queries/>
+* Quantity Query Carousel – Frontend Masters Blog <https://frontendmasters.com/blog/quantity-query-carousel/>
 * :nth Tester <https://css-tricks.com/examples/nth-child-tester/>
 * Open Props: sub-atomic styles <https://open-props.style/>
 * Fancy Border Radius Generator <https://9elements.github.io/fancy-border-radius/>
 * CSS Border Radius Generator Online | 10015 Tools <https://10015.io/tools/css-border-radius-generator>
 * CSS Border-radius Generator <https://www.htmlcssbuttongenerator.com/border-radius-generator.php>
-
+* CSS Tip: Learn CSS the easy way <https://css-tip.com/>
 ---
 
 * Partial Keyframes • Josh W. Comeau <https://www.joshwcomeau.com/animation/partial-keyframes/>
@@ -31,7 +32,6 @@
 * Next-level frosted glass with backdrop-filter • Josh W. Comeau <https://www.joshwcomeau.com/css/backdrop-filter/>
 * How To Center a Div <https://www.joshwcomeau.com/css/center-a-div/>
 * Centering in CSS <https://web.dev/articles/centering-in-css>
-* Min-Max-Value Interpolation <https://min-max-calculator.9elements.com/>
 * eludadev/css-docs: CSS Selectors, Flexbox, Grid, Box Model, visually explained. <https://github.com/EludaDev/CSS-Docs#sparkles-css-flexbox-layout>
 * postcss/postcss-cli: CLI for postcss <https://github.com/postcss/postcss-cli>
 * Defensive CSS <https://defensivecss.dev/>
@@ -85,7 +85,8 @@
 * Browser Default Styles <https://browserdefaultstyles.com/>
 * Parsel: A tiny, permissive CSS selector parser <https://projects.verou.me/parsel/>
 * Find the elements that are causing a horizontal scroll. Based on http://css-tricks.com/findingfixing-unintended-body-overflow/ <https://gist.github.com/massimo-cassandro/4dec6ca6c03482a26e9c9c1dde416c0a>
-
+* Min-Max-Value Interpolation <https://min-max-calculator.9elements.com/>
+* Liquid Glass, but in CSS | Atlas Pup Labs Blog <https://atlaspuplabs.com/blog/liquid-glass-but-in-css>
 ---
 
 * Box Shadows - Generate CSS Box Shadows <https://box-shadows.co/>

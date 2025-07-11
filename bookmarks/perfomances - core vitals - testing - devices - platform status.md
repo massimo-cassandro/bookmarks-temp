@@ -1,8 +1,15 @@
-# Accessibilità - Core vitals - Perfomances - testing - devices
+# Accessibilità - Core vitals - Perfomances - testing - devices - platform status
 
 
 * search console <https://search.google.com/search-console>
 * Inspect network activity  |  Chrome DevTools  |  Chrome for Developers <https://developer.chrome.com/docs/devtools/network?h=>
+
+## Browsers / platform status
+* Can I use... <http://caniuse.com/>
+* Web Platform Status <https://webstatus.dev/>
+* Web platform features explorer - Home <https://web-platform-dx.github.io/web-features-explorer/>
+* Chrome Platform Status <https://chromestatus.com/roadmap>
+
 
 ## Web vitals / perfomance / testing
 * GoogleChrome/lighthouse: Automated auditing, performance metrics, and best practices for the web. <https://github.com/GoogleChrome/lighthouse> 

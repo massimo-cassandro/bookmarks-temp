@@ -18,6 +18,9 @@
 * Qix-/color: Javascript color conversion and manipulation library <https://github.com/Qix-/color>
 * Color.js: Let’s get serious about color • Color.js <https://colorjs.io/>
 
+## colori / css
+* CSS Color Functions | CSS-Tricks <https://css-tricks.com/css-color-functions/>
+
 ## contrasto, luminance
 * EightShapes Contrast Grid <https://contrast-grid.eightshapes.com>
 * Randoma11y - Accessible color combinations <https://randoma11y.com/>
@@ -87,7 +90,7 @@
 * How your colorblind and colorweak readers see your colors - Datawrapper Blog <https://blog.datawrapper.de/colorblindness-part1/>
 * ColorADD - ColorADD code as a color identification tool for color blind people. <https://www.coloradd.net/en/coloradd-code/>
 * Color.review - Colors that look and work great for everyone <https://color.review/check/>
-
+* Step Gradients with a Given Number of Steps – Frontend Masters Blog <https://frontendmasters.com/blog/step-gradients-with-a-given-number-of-steps/>
 
 ## apps
 
