@@ -25,6 +25,27 @@
 
 
 ## fonts interessanti
+
+* Rubik - Google Fonts <https://fonts.google.com/specimen/Rubik>
+* Archivo <https://www.omnibus-type.com/fonts/archivo/>
+* Barlow <https://tribby.com/fonts/barlow/>
+   * Barlow - Google Fonts <https://fonts.google.com/?query=barlow>
+* Epilogue <https://fonts.google.com/specimen/Epilogue>
+* Encode Sans  <https://fonts.google.com/specimen/Encode+Sans>
+* Figtree <https://fonts.google.com/specimen/Figtree>
+* Rethink Sans <https://fonts.google.com/specimen/Rethink+Sans>
+* Overpass <https://fonts.google.com/specimen/Overpass>
+* Rubik <https://fonts.google.com/specimen/Rubik>
+* Space Grotesk <https://fonts.google.com/specimen/Space+Grotesk>
+* Cabin - Google Fonts <https://fonts.google.com/specimen/Cabin>
+* Karla - Google Fonts <https://fonts.google.com/specimen/Karla>
+* Lato - Google Fonts <https://fonts.google.com/specimen/Lato>
+* Heebo - Google Fonts <https://fonts.google.com/specimen/Heebo>
+* Libre Franklin - Google Fonts <https://fonts.google.com/specimen/Libre+Franklin>
+
+
+***
+
 * Agrandir - Free to Try Font with 74 Styles – Pangram Pangram Foundry <https://pangrampangram.com/products/agrandir-wide>
   * Agrandir - Free to Try Font with 74 Styles – Pangram Pangram Foundry <https://pangrampangram.com/products/agrandir>
 * Radio Canada - Google Fonts <https://fonts.google.com/specimen/Radio+Canada>
@@ -32,17 +53,11 @@
 * Atkinson Hyperlegible - Google Fonts <https://fonts.google.com/specimen/Atkinson+Hyperlegible>
 * Connary Fagen:Cartograph <https://connary.com/cartograph.html>
 * AdapterPE <https://rosettatype.com/AdapterPE>
-* Archivo <https://www.omnibus-type.com/fonts/archivo/>
 * Avería <http://iotic.com/averia/>
-* Barlow <https://tribby.com/fonts/barlow/>
-   * Barlow - Google Fonts <https://fonts.google.com/?query=barlow>
 * basement grotesque <https://github.com/basementstudio/basement-grotesque>
 * Braun <https://www.iconwerk.com/braun-font.html>
 * Criteria <https://connary.com/criteria.html>
 * Domine <https://fonts.google.com/specimen/Domine>
-* Encode Sans  <https://fonts.google.com/specimen/Encode+Sans>
-* Epilogue <https://fonts.google.com/specimen/Epilogue>
-* Figtree <https://fonts.google.com/specimen/Figtree>
 * Geist <https://vercel.com/font/sans>
 * Grandstander <https://www.etceteratype.co/grandstander>
 * Igino Marini <https://fonts.google.com/?query=Igino+Marini>
@@ -60,12 +75,8 @@
 * Nabla. Isometry, typeable <https://nabla.typearture.com/>
 * Omnibus-Type <https://www.omnibus-type.com/>
 * outward <https://www.freefaces.gallery/typefaces/outward>
-* Overpass <https://fonts.google.com/specimen/Overpass>
 * Paralucent <https://www.devicefonts.co.uk/catalogue/paralucent>
 * Recursive <https://www.recursive.design/>
-* Rethink Sans <https://fonts.google.com/specimen/Rethink+Sans>
-* Rubik <https://fonts.google.com/specimen/Rubik>
-* Space Grotesk <https://fonts.google.com/specimen/Space+Grotesk>
 * Stem <https://www.paratype.com/fonts/pt/stem>
 * Truculenta <https://fonts.google.com/specimen/Truculenta>
 * yrsa rasa <http://github.rosettatype.com/yrsa-rasa/>
