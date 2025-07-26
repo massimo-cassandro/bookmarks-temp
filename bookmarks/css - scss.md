@@ -79,6 +79,8 @@
 * CSS scroll Shadows <https://css-scroll-shadows.now.sh/?bgColor=d8673a&shadowColor=222222&pxSize=5>
 * Scroll Shadows With JavaScript | CSS-Tricks <https://css-tricks.com/scroll-shadows-with-javascript/>
 * Glassmorphism CSS Generator <https://glassmorphism.com/>
+* Glassmorphism CSS Effect Generator - Glass CSS <https://css.glass/>
+* Getting Clarity on Apple's Liquid Glass | CSS-Tricks <https://css-tricks.com/getting-clarity-on-apples-liquid-glass/>
 * How to Get and Set CSS Variable Values with JavaScript <https://davidwalsh.name/css-variables-javascript>
 * A mighty, modern style linter · stylelint <https://stylelint.io/>
 * AddyOsmani.com - Infinite Scroll without Layout Shifts <https://addyosmani.com/blog/infinite-scroll-without-layout-shifts/>
