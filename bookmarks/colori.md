@@ -91,7 +91,7 @@
 * How your colorblind and colorweak readers see your colors - Datawrapper Blog <https://blog.datawrapper.de/colorblindness-part1/>
 * ColorADD - ColorADD code as a color identification tool for color blind people. <https://www.coloradd.net/en/coloradd-code/>
 * Color.review - Colors that look and work great for everyone <https://color.review/check/>
-* Step Gradients with a Given Number of Steps – Frontend Masters Blog <https://frontendmasters.com/blog/step-gradients-with-a-given-number-of-steps/>
+
 
 ## apps
 
@@ -105,11 +105,8 @@
 * CSS relative color syntax <https://developer.chrome.com/blog/css-relative-color-syntax/>
 * Simplify Your Color Palette With CSS Color-Mix() <https://www.smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/>
 * Creazione di una combinazione di colori <https://web.dev/articles/building/a-color-scheme?hl=it>
-* Easing Gradients <https://larsenwork.com/easing-gradients/#editor>
 * CSS filter generator to convert from black to target hex color <https://codepen.io/sosuke/pen/Pjoqqp> 
 * CSS Shadow Palette Generator <https://www.joshwcomeau.com/shadow-palette/>
-* CSS Gradient Generator <https://www.joshwcomeau.com/gradient-generator/>
-* CSS Shadow Gradients — Generator [Fast & Easy] <https://alvarotrigo.com/shadow-gradients/#how-to-use>
 * CSS filter generator to convert from black to target hex color <https://codepen.io/sosuke/pen/Pjoqqp>
 * Sass Color Generator <http://scg.ar-ch.org/>
 * cccreate → carefully curated collection of tools for web creators <https://cccreate.co/>
@@ -117,14 +114,10 @@
 * PleaseJS <https://github.com/Fooidge/PleaseJS>
 * APCA Contrast Calculator <https://www.myndex.com/APCA/>
 * OKLCH Color Picker & Converter <https://oklch.com>
-* HD gradients <https://gradient.style/>
 * Color Hex Color Codes <https://www.color-hex.com/>
 * davidmerfield/randomColor: A tiny script for generating attractive colors <https://github.com/davidmerfield/randomColor>
-* CSS Background Pattern Generator <https://10015.io/tools/css-background-pattern-generator> 
 * How to create a color palette for design systems | by Alex | Medium <https://medium.com/@imperavi/how-to-create-a-color-palette-for-design-systems-a803e90adc15>
 * Designing a colour system. Building multi-brand colour systems… | by Pavel Kiselev | UX Collective <https://uxdesign.cc/designing-colour-system-d9d39f245e01>
-* CSS Gradient Generator <https://cssgradient.io/>
-* UI Gradient Generator: Make Beautiful CSS Gradients [& SVG] <https://learnui.design/tools/gradient-generator.html>
 
 
 ## color pickers

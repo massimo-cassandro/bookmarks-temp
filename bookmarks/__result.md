@@ -728,7 +728,6 @@
 * Building a multi-select component <https://web.dev/building-a-multi-select-component/>
 * A Complete Guide To Accessible Front-End Components — Smashing Magazine <https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/>
 *  <https://web.dev/building-a-3d-game-menu-component/>
-* <css-doodle /> <https://css-doodle.com/>
 * An Introduction to GraphQL | Tania Rascia <https://www.taniarascia.com/introduction-to-graphql/>
 * Optimizing resource loading with Priority Hints <https://web.dev/priority-hints/>
 * Lighthouse user flows <https://web.dev/lighthouse-user-flows/>
@@ -1387,7 +1386,6 @@
 * Font Families | LucasFonts <https://www.lucasfonts.com/fonts>
 * Home | Oculi Mundi <https://oculi-mundi.com/>
 * Home • ARETE <https://uclab.fh-potsdam.de/arete/en>
-* CSS HD Gradients <https://gradient.style/#type=linear&space=oklab&linear_named_angle=to+right&linear_angle=90&stops=%7B%22kind%22%3A%22stop%22%2C%22color%22%3A%22oklch%2870%25+0.5+340%29%22%2C%22auto%22%3A%220%22%2C%22position1%22%3A%220%22%2C%22position2%22%3A%220%22%7D&stops=%7B%22kind%22%3A%22hint%22%2C%22auto%22%3A%2250%22%2C%22percentage%22%3A%2250%22%7D&stops=%7B%22kind%22%3A%22stop%22%2C%22color%22%3A%22oklch%2890%25+0.5+200%29%22%2C%22auto%22%3A%22100%22%2C%22position1%22%3A%22100%22%2C%22position2%22%3A%22100%22%7D>
 * Tesori d'archivio: i pattern dell'arte islamica - Frizzifrizzi <https://www.frizzifrizzi.it/2017/03/03/tesori-darchivio-pattern-dellarte-islamica/>
 * Tesori d'archivio: i pattern islamici delle piastrelle afghane in un libro di fine '800 - Frizzifrizzi <https://www.frizzifrizzi.it/2024/01/15/tesori-darchivio-i-pattern-islamici-delle-piastrelle-afghane-in-un-libro-di-fine-800/>
 * Tesori d'archivio: le decorazioni Art Nouveau di Anton Seder, ispirate alla natura - Frizzifrizzi <https://www.frizzifrizzi.it/2024/02/06/tesori-darchivio-le-decorazioni-art-nouveau-di-anton-seder-ispirate-alla-natura/>

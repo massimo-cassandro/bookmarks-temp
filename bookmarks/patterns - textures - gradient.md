@@ -1,8 +1,16 @@
-# Patterns
+# patterns - textures - gradient
+
+## patterns - textures
 
 * CSS3 Patterns Gallery <https://leaverou.github.io/css3patterns/>
 * pattern.css - Background Patterns in CSS <https://bansal.io/pattern-css>
 
+-----
+
+* css-doodle <https://css-doodle.com/>
+  * yuanchuan on CodePen <https://codepen.io/yuanchuan>
+
+-----
 
 * texture fabric <https://texturefabrik.com/tag/texture-fabric/>
 * Seamless Pattern Maker - Create Unlimited Seamless Patterns For Free <https://patternico.com/>
@@ -20,4 +28,20 @@
 * Basic Pattern Repository <https://patterns.helloyes.dev/>
 * DOODAD | Online Tools for Web Developers <https://doodad.dev/>
 * CSS Pattern: Fancy backgrounds with CSS gradients <https://css-pattern.com/>
+* CSS Background Pattern Generator <https://10015.io/tools/css-background-pattern-generator> 
 
+
+## gradients
+
+* Step Gradients with a Given Number of Steps – Frontend Masters Blog <https://frontendmasters.com/blog/step-gradients-with-a-given-number-of-steps/>
+
+## gradients generators
+* CSS mesh gradients generator: Mesher Tool by CSS Hero <https://csshero.org/mesher/>
+* draGGradients -- create custom css radial-gradients dragging your mouse <https://elrumordelaluz.github.io/draGGradients/#>
+* CSS Gradient Generator <https://www.joshwcomeau.com/gradient-generator/>
+* Easing Gradients <https://larsenwork.com/easing-gradients/#editor>
+* CSS Shadow Gradients — Generator [Fast & Easy] <https://alvarotrigo.com/shadow-gradients/#how-to-use>
+* CSS Gradient Generator <https://cssgradient.io/>
+* UI Gradient Generator: Make Beautiful CSS Gradients [& SVG] <https://learnui.design/tools/gradient-generator.html>
+* conic.css. Nice, simple conic gradients <https://www.conic.style/>
+* CSS HD Gradients <https://gradient.style/>

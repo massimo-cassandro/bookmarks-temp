@@ -45,9 +45,7 @@
 * Transitions <https://m3.material.io/styles/motion/transitions/applying-transitions>
 * An Interactive Guide to CSS Grid <https://www.joshwcomeau.com/css/interactive-guide-to-grid/>
 * transition.css. Drop-in CSS transitions <https://www.transition.style/>
-* conic.css. Nice, simple conic gradients <https://www.conic.style/>
 * 2D & 3D CSS Transform functions visualizer <https://css-transform.moro.es/> 
-* UI Gradient Generator: Make Beautiful CSS Gradients [& SVG] <https://learnui.design/tools/gradient-generator.html>
 * Collection of CSS snippets <https://justmarkup.com/log/2018/03/collection-of-css-snippets/>
 * CSS Layout cookbook - CSS: Cascading Style Sheets | MDN <https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook>
 * CSS Section Separator Generator | wweb.dev <https://wweb.dev/resources/css-separator-generator>
