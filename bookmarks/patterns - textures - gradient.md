@@ -40,7 +40,6 @@
 * draGGradients -- create custom css radial-gradients dragging your mouse <https://elrumordelaluz.github.io/draGGradients/#>
 * CSS Gradient Generator <https://www.joshwcomeau.com/gradient-generator/>
 * Easing Gradients <https://larsenwork.com/easing-gradients/#editor>
-* CSS Shadow Gradients — Generator [Fast & Easy] <https://alvarotrigo.com/shadow-gradients/#how-to-use>
 * CSS Gradient Generator <https://cssgradient.io/>
 * UI Gradient Generator: Make Beautiful CSS Gradients [& SVG] <https://learnui.design/tools/gradient-generator.html>
 * conic.css. Nice, simple conic gradients <https://www.conic.style/>

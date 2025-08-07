@@ -106,7 +106,6 @@
 * Simplify Your Color Palette With CSS Color-Mix() <https://www.smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/>
 * Creazione di una combinazione di colori <https://web.dev/articles/building/a-color-scheme?hl=it>
 * CSS filter generator to convert from black to target hex color <https://codepen.io/sosuke/pen/Pjoqqp> 
-* CSS Shadow Palette Generator <https://www.joshwcomeau.com/shadow-palette/>
 * CSS filter generator to convert from black to target hex color <https://codepen.io/sosuke/pen/Pjoqqp>
 * Sass Color Generator <http://scg.ar-ch.org/>
 * cccreate → carefully curated collection of tools for web creators <https://cccreate.co/>

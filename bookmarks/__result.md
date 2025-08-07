@@ -488,7 +488,6 @@
 
 * Stop, Look, Click: Attention-Grabbing Elements in Web Design <http://tympanus.net/codrops/2012/09/28/stop-look-click-attention-grabbing-elements-in-web-design>
 * Smooth Scrolling Sticky ScrollSpy Navigation – Bram.us <https://www.bram.us/2020/01/10/smooth-scrolling-sticky-scrollspy-navigation/>
-* CSS scroll Shadows <https://css-scroll-shadows.now.sh/?bgColor=d8673a&shadowColor=222222&pxSize=5>
 * Inclusive design: perché il design può fare la differenza <https://www.slideshare.net/moon_glade/inclusive-design-perch-il-design-pu-fare-la-differenza>
 * Scrolling infinito o paginazione? Usabilità a confronto - Luca Rosati | Architettura dell'informazione <https://www.lucarosati.it/blog/scrolling-infinito-paginazione>
 * Bottom Navigation Pattern On Mobile Web Pages: A Better Alternative? — Smashing Magazine <https://www.smashingmagazine.com/2019/08/bottom-navigation-pattern-mobile-web-pages/>
@@ -1000,7 +999,6 @@
 * ✨Calculating Color: Dynamic Color Theming with Pure CSS | Una Kravets Online✨ <https://una.im/css-color-theming/>
 * FONT Repo - Free Fonts for Websites & Designs <https://www.fontrepo.com/>
 * Hiding Content Responsibly | Kitty Giraudel <https://kittygiraudel.com/2021/02/17/hiding-content-responsibly/>
-* How to Make Badass Shadows. Tips to help create better UI shadows. | by Buninux | Feb, 2021 | Prototypr <https://blog.prototypr.io/how-to-make-badass-shadows-564b3a30aba4>
 * CSS Viewport Units <https://ishadeed.com/article/viewport-units/>
 * Accessible Color Generator: High-Contrast Color Suggestions <https://learnui.design/tools/accessible-color-generator.html>
 * Stark: The suite of integrated accessibility tools for your product design and development team • Making the world’s products accessible. <https://www.getstark.co/>
@@ -1379,7 +1377,6 @@
 * APCA Contrast Calculator <https://www.myndex.com/APCA/>
 * JPEG and EXIF Data Manipulation in Javascript | Getaround Tech <https://getaround.tech/exif-data-manipulation-javascript/>
 * CSS relative color syntax - Chrome for Developers <https://developer.chrome.com/blog/css-relative-color-syntax/>
-* Smoother & sharper shadows with layered box-shadows | Tobias Ahlin <https://tobiasahlin.com/blog/layered-smooth-box-shadows/>
 * The Ultimate Low-Quality Image Placeholder Technique – Harry Roberts – Web Performance Consultant <https://csswizardry.com/2023/09/the-ultimate-lqip-lcp-technique/>
 * Il designer Nicholas Rougeux ha restaurato le tavole illustrate di una serie di volumi dell'800 sui colibrì - Frizzifrizzi <https://www.frizzifrizzi.it/2023/10/24/il-designer-nicholas-rougeux-ha-restaurato-le-tavole-illustrate-di-una-serie-di-volumi-dell800-sui-colibri/>
 * Monaspace <https://monaspace.githubnext.com/>

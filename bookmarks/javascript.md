@@ -28,7 +28,6 @@
 * Dates and Times | SheetJS Community Edition <https://docs.sheetjs.com/docs/csf/features/dates/>
 * Cell Object | SheetJS Community Edition <https://docs.sheetjs.com/docs/csf/cell>
 * Overview | SheetJS Community Edition <https://docs.sheetjs.com/docs/>
-* Scroll Shadows With JavaScript | CSS-Tricks - CSS-Tricks <https://css-tricks.com/scroll-shadows-with-javascript/>
 * Platform.js <https://github.com/bestiejs/platform.js#readme>
 * JavaScript Intersection Observer Ultimate Guide <https://blog.webdevsimplified.com/2022-01/intersection-observer/>
 * Sugar - a Javascript utility library for working with native objects. <https://sugarjs.com/>

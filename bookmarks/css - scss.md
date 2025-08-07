@@ -25,6 +25,16 @@
 * Smooth Height Transition | CSS Animation | Web Development | LabEx <https://labex.io/tutorials/css-smooth-transition-of-dynamic-heights-35207>
 * Transitioning To Auto Height | CSS-Tricks <https://css-tricks.com/transitioning-to-auto-height/>
 
+## box shadow
+* Box Shadows <https://box-shadow.dev/>
+* CSS scroll Shadows <https://css-scroll-shadows.now.sh/?bgColor=d8673a&shadowColor=222222&pxSize=5>
+* Scroll Shadows With JavaScript | CSS-Tricks <https://css-tricks.com/scroll-shadows-with-javascript/>
+* Box Shadows - Generate CSS Box Shadows <https://box-shadows.co/>
+* CSS Shadow Palette Generator <https://www.joshwcomeau.com/shadow-palette/>
+* Scroll Shadows With JavaScript | CSS-Tricks - CSS-Tricks <https://css-tricks.com/scroll-shadows-with-javascript/>
+* CSS Shadow Gradients — Generator [Fast & Easy] <https://alvarotrigo.com/shadow-gradients/#how-to-use>
+* Smoother & sharper shadows with layered box-shadows | Tobias Ahlin <https://tobiasahlin.com/blog/layered-smooth-box-shadows/>
+* How to Make Badass Shadows. Tips to help create better UI shadows. | by Buninux | Feb, 2021 | Prototypr <https://blog.prototypr.io/how-to-make-badass-shadows-564b3a30aba4>
 
 ---
 
@@ -74,8 +84,6 @@
 
 ## Varie
 * Clippy — CSS clip-path maker <https://bennettfeely.com/clippy/>
-* CSS scroll Shadows <https://css-scroll-shadows.now.sh/?bgColor=d8673a&shadowColor=222222&pxSize=5>
-* Scroll Shadows With JavaScript | CSS-Tricks <https://css-tricks.com/scroll-shadows-with-javascript/>
 * Glassmorphism CSS Generator <https://glassmorphism.com/>
 * Glassmorphism CSS Effect Generator - Glass CSS <https://css.glass/>
 * Getting Clarity on Apple's Liquid Glass | CSS-Tricks <https://css-tricks.com/getting-clarity-on-apples-liquid-glass/>
@@ -89,7 +97,7 @@
 * Liquid Glass, but in CSS | Atlas Pup Labs Blog <https://atlaspuplabs.com/blog/liquid-glass-but-in-css>
 ---
 
-* Box Shadows - Generate CSS Box Shadows <https://box-shadows.co/>
+
 * CSS Generator <http://angrytools.com/css-generator/>
 * Modern CSS Reset / Global Styles <https://www.joshwcomeau.com/css/custom-css-reset/>
 
