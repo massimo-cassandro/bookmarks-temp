@@ -9,6 +9,9 @@
 
 * Javascript Playground (Sandbox, Repl) <https://playcode.io/>
 
+## auth
+* React Authentication & Access Control | CSS-Tricks <https://css-tricks.com/react-authentication-access-control/>
+* The Complete Guide to React User Authentication with Auth0 <https://auth0.com/blog/complete-guide-to-react-user-authentication/>
 
 ## React / web components / styled components / css modules
 * Making setInterval Declarative with React Hooks <https://overreacted.io/making-setinterval-declarative-with-react-hooks/>
@@ -34,7 +37,6 @@
 * React: How to implement an infinite scroll <https://medium.com/suyeonme/react-how-to-implement-an-infinite-scroll-749003e9896a>
 * How to Cleanup Async Effects in React <https://dmitripavlutin.com/react-cleanup-async-effects/>
 * How to Memoize with React.useMemo() <https://dmitripavlutin.com/react-usememo-hook/>
-* Using OAuth with PKCE Authorization Flow (Proof Key for Code Exchange) | Tania Rascia <https://www.taniarascia.com/oauth-pkce-authorization/>
 * How to update parent state from child component in React | Our Code World <https://ourcodeworld.com/articles/read/409/how-to-update-parent-state-from-child-component-in-react>
 * JedWatson/classnames: A simple javascript utility for conditionally joining classNames together <https://github.com/JedWatson/classnames>
 * React Children And Iteration Methods — Smashing Magazine <https://www.smashingmagazine.com/2021/08/react-children-iteration-methods/>

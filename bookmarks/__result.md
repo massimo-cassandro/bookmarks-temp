@@ -736,12 +736,9 @@
 * Beginner’s guide to Svelte - From basics to state management and animation <https://www.twilio.com/blog/all-you-need-to-know-svelte>
 * Overview <https://shoelace.style/>
 * OpenReplay | Open-Source Session Replay <https://openreplay.com/index.html>
-* OAuth, Open Auth community <https://oauth.net/>
 * CSSUI - Pure CSS interactive components <https://www.cssui.dev/>
 * Getting Started on Heroku with Node.js | Heroku Dev Center <https://devcenter.heroku.com/articles/getting-started-with-nodejs>
-* React Authentication & Access Control | CSS-Tricks <https://css-tricks.com/react-authentication-access-control/>
-* Userfront <https://userfront.com/>
-* The Complete Guide to React User Authentication with Auth0 <https://auth0.com/blog/complete-guide-to-react-user-authentication/>
+
 *  **DUP** typicode/lowdb: Simple to use local JSON database (supports Node, Electron and the browser) <https://github.com/typicode/lowdb>
 * Intro to Firebase and React | CSS-Tricks <https://css-tricks.com/intro-firebase-react/>
 * Adding Relay | Create React App <https://create-react-app.dev/docs/adding-relay>
@@ -779,7 +776,6 @@
 * Largest Contentful Paint (LCP) <https://web.dev/lcp/>
 * Lyra✨ | Lyra✨ <https://nearform.github.io/lyra/>
 * SurrealDB | The ultimate serverless cloud database <https://surrealdb.com/>
-* Auth0: Secure access for everyone. But not just anyone. <https://auth0.com/>
 * The performance effects of too much lazy-loading <https://web.dev/lcp-lazy-loading/>
 * Web Authentication: Cookies vs. Tokens | by Chameera Dulanga | Bits and Pieces <https://blog.bitsrc.io/web-authentication-cookies-vs-tokens-8e47d5a96d34>
 * Font Subsetting Strategies: Content-Based vs Alphabetical – Cloud Four <https://cloudfour.com/thinks/font-subsetting-strategies-content-based-vs-alphabetical/>
@@ -791,7 +787,6 @@
 * Frontend Web Performance: The Essentials [0] | by Matthew Costello | Medium <https://medium.com/@matthew.costello/frontend-web-performance-the-essentials-0-61fea500b180>
 * Frontend Web Performance: The Essentials [1] | by Matthew Costello | Medium <https://medium.com/@matthew.costello/frontend-web-performance-the-essentials-1-cb6513e1c3a1>
 * Core Web Vitals <https://web.dev/learn-core-web-vitals/>
-* Lucia <https://lucia-auth.vercel.app/>
 * Critical CSS? Not So Fast! – CSS Wizardry – Web Performance Optimisation <https://csswizardry.com/2022/09/critical-css-not-so-fast/>
 * Building a split-button component <https://web.dev/building-a-split-button-component/>
 * My First Web Component <https://www.raymondcamden.com/2022/05/18/my-first-web-component>
