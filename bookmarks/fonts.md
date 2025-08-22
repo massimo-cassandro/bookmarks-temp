@@ -42,7 +42,7 @@
 * Lato - Google Fonts <https://fonts.google.com/specimen/Lato>
 * Heebo - Google Fonts <https://fonts.google.com/specimen/Heebo>
 * Libre Franklin - Google Fonts <https://fonts.google.com/specimen/Libre+Franklin>
-
+* Aleo - Google Fonts <https://fonts.google.com/specimen/Aleo>
 
 ***
 
