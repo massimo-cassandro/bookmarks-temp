@@ -30,6 +30,7 @@
 
 ## metadata
 * ExifTool by Phil Harvey <https://exiftool.org/>
+* Metadata Fixer For Google Photos Takeout <https://metadatafixer.com/>
 
 ## img segnaposto
 
