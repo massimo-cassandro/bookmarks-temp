@@ -31,6 +31,9 @@
 ## metadata
 * ExifTool by Phil Harvey <https://exiftool.org/>
 * Metadata Fixer For Google Photos Takeout <https://metadatafixer.com/>
+* awarberg/google-photos-json-to-exif: Tool for importing Google Photos JSON files as delivered by Google Takeout into their respective JPEG or PNG files <https://github.com/awarberg/google-photos-json-to-exif>
+  * How to backup your photos from Google and fix the Exif metadata <https://blog.rpanachi.com/how-to-takeout-from-google-photos-and-fix-metadata-exif-info>
+  * Moving from Google Photos to Apple Photos | Laurence Andrews <https://andrews.io/blog/moving-to-apple-photos.html>
 
 ## img segnaposto
 
