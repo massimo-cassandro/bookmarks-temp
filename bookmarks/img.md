@@ -28,6 +28,9 @@
 * squoosh/libsquoosh at dev · GoogleChromeLabs/squoosh <https://github.com/GoogleChromeLabs/squoosh/tree/dev/libsquoosh>
 * cwebp  |  WebP  |  Google for Developers <https://developers.google.com/speed/webp/docs/cwebp?hl=it>
 
+## metadata
+* ExifTool by Phil Harvey <https://exiftool.org/>
+
 ## img segnaposto
 
 * BlurHash <https://blurha.sh/>
