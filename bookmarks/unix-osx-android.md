@@ -22,3 +22,7 @@
 * Scarica Android Studio e strumenti per app <https://developer.android.com/studio?hl=it>
 * AirDroid Web | Manage your phone on web <https://web.airdroid.com/>
 * LineageOS – LineageOS Android Distribution <https://lineageos.org/>
+
+## Browser wrapper
+* Velja — Sindre Sorhus <https://sindresorhus.com/velja>
+* johnste/finicky: A macOS app for customizing which browser to start <https://github.com/johnste/finicky>
