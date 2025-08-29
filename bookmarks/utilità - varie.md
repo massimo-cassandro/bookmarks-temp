@@ -42,6 +42,12 @@
 * What is my screen resolution <https://screenresolutiontest.com/>
 * Device Info - Web browser security, privacy, and troubleshooting tool. <https://www.deviceinfo.me/>
 
+## Browser wrapper
+* Velja — Sindre Sorhus <https://sindresorhus.com/velja>
+* johnste/finicky: A macOS app for customizing which browser to start <https://github.com/johnste/finicky>
+* AlexStrNik/Browserino: Browserino is a tiny browser selector for MacOS written in SwiftUI. <https://github.com/AlexStrNik/Browserino>
+* will-stone/browserosaurus: 🦖 The browser prompter for macOS <https://github.com/will-stone/browserosaurus>
+
 
 
 ## Bookmarklet
