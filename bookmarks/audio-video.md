@@ -15,6 +15,10 @@
 * joshwcomeau/use-sound: A React Hook for playing sound effects <https://github.com/joshwcomeau/use-sound>
 * goldfire/howler.js: Javascript audio library for the modern web. <https://github.com/goldfire/howler.js>
 * Theodeus/tuna: An audio effects library for the Web Audio API. <https://github.com/Theodeus/tuna?tab=readme-ov-file>
+* Screen Recorder – Record Screen Video/Audio in High Quality | AnyMP4 <https://www.anymp4.com/screen-recorder/>
+* Open Broadcaster Software®️ | OBS <https://obsproject.com/>
+* Sound Siphon 3 - App Audio Capture for Mac | Static Z Software <https://staticz.com/soundsiphon/>
+* Advanced Topic: Setting Custom Exclusions via XML – Backblaze Help <https://help.backblaze.com/hc/en-us/articles/220973007-Advanced-Topic-Setting-Custom-Exclusions-via-XML>
 
 ## Video
 * ScrollyVideo.js <https://scrollyvideo.js.org/>

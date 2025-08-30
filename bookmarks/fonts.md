@@ -22,6 +22,7 @@
 * Grid lover (vertcal Rythm) <https://gridlover.net/try>  
 * Fluid Grid Calculator <https://utopia.fyi/grid/calculator/>
 * Fluid Space Calculator <https://utopia.fyi/space/calculator>
+* FontForge Open Source Font Editor <https://fontforge.org/en-US/>
 
 
 ## fonts interessanti
@@ -100,7 +101,6 @@
 * microsoft/cascadia-code: This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. <https://github.com/microsoft/cascadia-code>
 
 ## Fonts
-* FontForge Open Source Font Editor <https://fontforge.org/en-US/>
 * Adobe fonts <https://fonts.adobe.com/fonts>
 * Variable fonts - Google Fonts <https://fonts.google.com/variablefonts>
 * Identifying Font Subsetting Opportunities with Web Font Analyzer <https://paulcalvano.com/2024-02-16-identifying-font-subsetting-opportunities/>

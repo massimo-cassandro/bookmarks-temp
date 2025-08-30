@@ -1,34 +1,3 @@
-# Software / Mac / Applicazioni web / Add-ons
-
-  
-* Lighthouse Liner Illustrator Brushes | Unique Illustrator Add-Ons ~ Creative Market <https://creativemarket.com/pixel-buddha/4646802-Lighthouse-Liner-Illustrator-Brushes>
-* Spline <https://app.spline.design/files> 
-* Google Web Designer <http://www.google.com/webdesigner/>
-* cue2lbl <http://grimblefritz.com/audacity/cue2lbl.php>
-* lbl2cue / cue2lbl <http://grimblefritz.com/audacity/>
-* FreeCAD: Il tuo modellatore 3D parametrico <https://www.freecad.org/index.php?lang=it>
-* OpenSCAD - The Programmers Solid 3D CAD Modeller <https://openscad.org/>
-* Xnapper – The Beautiful Screenshot App for Mac <https://xnapper.com/>
-
-
-***
-
-
-* 
-* Screen Recorder – Record Screen Video/Audio in High Quality | AnyMP4 <https://www.anymp4.com/screen-recorder/>
-* Open Broadcaster Software®️ | OBS <https://obsproject.com/>
-* Sound Siphon 3 - App Audio Capture for Mac | Static Z Software <https://staticz.com/soundsiphon/>
-* FontForge Open Source Font Editor <https://fontforge.org/en-US/>
-* newmarcel/KeepingYouAwake: Prevents your Mac from going to sleep. <https://github.com/newmarcel/KeepingYouAwake>
-* node-gyp/macOS_Catalina.md at master · nodejs/node-gyp <https://github.com/nodejs/node-gyp/blob/master/macOS_Catalina.md>
-* Advanced Topic: Setting Custom Exclusions via XML – Backblaze Help <https://help.backblaze.com/hc/en-us/articles/220973007-Advanced-Topic-Setting-Custom-Exclusions-via-XML>
-
-
-*****************
-*****************
-*****************
-*****************
-
 
 
 ## google
@@ -56,7 +25,6 @@
 * How to load web fonts to avoid performance issues and speed up page loading <https://www.freecodecamp.org/news/web-fonts-in-2018-f191a48367e8/>
 * Preload web fonts to improve loading speed <https://web.dev/codelab-preload-web-fonts/>
 * Google Analytics - Clarity <https://clarity.microsoft.com/google-analytics>
-* Google Web Designer - Home <https://webdesigner.withgoogle.com/>
 * vikas5914/google-photos-backup: Backup photos from Google Photos using Playwright. <https://github.com/vikas5914/google-photos-backup>
 
 

@@ -96,9 +96,21 @@
 * Introduction · macOS Setup Guide <https://sourabhbajaj.com/mac-setup/>
 * Titanium Software | Operating system utilities for Mac - OnyX <https://www.titanium-software.fr/en/onyx.html>
 * KeepingYouAwake: Prevents your Mac from going to sleep <https://keepingyouawake.app/>
+  * newmarcel/KeepingYouAwake: Prevents your Mac from going to sleep. <https://github.com/newmarcel/KeepingYouAwake>
 * IntelliScape Solutions <https://intelliscapesolutions.com/apps/caffeine>
 * Keka - il compressore di macOS <https://www.keka.io/it/>
 * Go2Shell - ZipZapMac <https://zipzapmac.com/Go2Shell>
 * CodeKit - THE Mac App for Web Developers <https://codekitapp.com/>
 * Aerial - A free and open-source Mac Screen Saver <https://aerialscreensaver.github.io/>
 * qarmin/czkawka: Multi functional app to find duplicates, empty folders, similar images etc. <https://github.com/qarmin/czkawka>
+
+---- 
+
+* Lighthouse Liner Illustrator Brushes | Unique Illustrator Add-Ons ~ Creative Market <https://creativemarket.com/pixel-buddha/4646802-Lighthouse-Liner-Illustrator-Brushes>
+* Spline <https://app.spline.design/files> 
+* Google Web Designer <http://www.google.com/webdesigner/>
+* cue2lbl <http://grimblefritz.com/audacity/cue2lbl.php>
+* lbl2cue / cue2lbl <http://grimblefritz.com/audacity/>
+* FreeCAD: Il tuo modellatore 3D parametrico <https://www.freecad.org/index.php?lang=it>
+* OpenSCAD - The Programmers Solid 3D CAD Modeller <https://openscad.org/>
+* Xnapper – The Beautiful Screenshot App for Mac <https://xnapper.com/>
