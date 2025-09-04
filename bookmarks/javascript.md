@@ -29,11 +29,18 @@
 * Cell Object | SheetJS Community Edition <https://docs.sheetjs.com/docs/csf/cell>
 * Overview | SheetJS Community Edition <https://docs.sheetjs.com/docs/>
 * Platform.js <https://github.com/bestiejs/platform.js#readme>
-* JavaScript Intersection Observer Ultimate Guide <https://blog.webdevsimplified.com/2022-01/intersection-observer/>
+
 * Sugar - a Javascript utility library for working with native objects. <https://sugarjs.com/>
 * Typescript Playground <https://www.typescriptlang.org/play>
 * Accessible Autocomplete <https://github.com/alphagov/accessible-autocomplete>
 * React TypeScript Cheatsheets <https://react-typescript-cheatsheet.netlify.app/>
+
+### Intersection Observer
+* JavaScript Intersection Observer Ultimate Guide <https://blog.webdevsimplified.com/2022-01/intersection-observer/>
+* IntersectionObserver Visualizer <https://codepen.io/michellebarker/full/xxwLpRG>
+* Building a ‘Table Of Contents’ with active indicator using JavaScript Intersection Observers – Ben Frain <https://benfrain.com/building-a-table-of-contents-with-active-indicator-using-javascript-intersection-observers/>
+* Building A Dynamic Header With Intersection Observer — Smashing Magazine <https://www.smashingmagazine.com/2021/07/dynamic-header-intersection-observer/>
+
 
 
 ## Librerie

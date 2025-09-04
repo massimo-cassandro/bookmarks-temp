@@ -182,7 +182,6 @@
 * Natively Format JavaScript Numbers <https://elijahmanor.com/format-js-numbers>
 * Intl.NumberFormat() constructor - JavaScript | MDN <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat/NumberFormat>
 * window.location Cheatsheet | SamanthaMing.com <https://www.samanthaming.com/tidbits/86-window-location-cheatsheet/>
-* IntersectionObserver Visualizer <https://codepen.io/michellebarker/full/xxwLpRG>
 * How to execute a JavaScript function when I have its name as a string - Stack Overflow <https://stackoverflow.com/questions/359788/how-to-execute-a-javascript-function-when-i-have-its-name-as-a-string>
 * Paged.js — Paged.js <https://www.pagedjs.org/>
 * dmitripavlutin.com/all-posts/ <https://dmitripavlutin.com/all-posts/>
@@ -217,7 +216,6 @@
 * What's a Method in JavaScript? <https://dmitripavlutin.com/javascript-method/>
 * Managing focus in the shadow DOM | Read the Tea Leaves <https://nolanlawson.com/2021/02/13/managing-focus-in-the-shadow-dom/>
 * How to Greatly Enhance fetch() with the Decorator Pattern <https://dmitripavlutin.com/enhance-fetch-with-decorator-pattern/>
-* Building a ‘Table Of Contents’ with active indicator using JavaScript Intersection Observers – Ben Frain <https://benfrain.com/building-a-table-of-contents-with-active-indicator-using-javascript-intersection-observers/>
 * Gentle Explanation of "this" in JavaScript <https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/>
 * Identify and Extract Pseudo-Element Selectors from built-in HTML Elements using DevTools – Bram.us <https://www.bram.us/2021/04/15/identify-and-extract-pseudo-element-selectors-from-built-in-html-elements-using-devtools/>
 * The complete guide to working with strings in modern JavaScript <https://www.baseclass.io/guides/string-handling-modern-js>
@@ -230,7 +228,6 @@
 * Frappe DataTable - A simple, modern datatable library for the web <https://frappe.io/datatable>
 * CSS feature detection in JavaScript?! <https://areknawo.com/css-feature-detection-in-javascript/>
 * How to Share Variables Between Javascript and Sass <https://www.bluematador.com/blog/how-to-share-variables-between-js-and-sass>
-* Building A Dynamic Header With Intersection Observer — Smashing Magazine <https://www.smashingmagazine.com/2021/07/dynamic-header-intersection-observer/>
 * What is a Promise in JavaScript? <https://dmitripavlutin.com/what-is-javascript-promise/>
 * Callback Hell <http://callbackhell.com/>
 * google/zx: A tool for writing better scripts <https://github.com/google/zx>
@@ -273,7 +270,6 @@
 * local-cors-proxy - npm <https://www.npmjs.com/package/local-cors-proxy>
 * File Upload Security and Malware Protection <https://austingil.com/file-upload-security-and-malware-protection/>
 * How to Get All Custom Properties on a Page in JavaScript | CSS-Tricks - CSS-Tricks <https://css-tricks.com/how-to-get-all-custom-properties-on-a-page-in-javascript/>
-* JavaScript Intersection Observer Ultimate Guide <https://blog.webdevsimplified.com/2022-01/intersection-observer/>
 * How to draw any regular shape with just one JavaScript function | MDN Blog <https://developer.mozilla.org/en-US/blog/javascript-shape-drawing-function/>
 * Hello Web Components. If you’ve heard about Web Components… | by EisenbergEffect | Medium <https://eisenbergeffect.medium.com/hello-web-components-795ed1bd108e>
 * How to Use the "this" Keyword in JavaScript <https://www.freecodecamp.org/news/the-this-keyword-in-javascript/>
