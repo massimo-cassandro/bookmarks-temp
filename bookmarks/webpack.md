@@ -1,6 +1,7 @@
 # Webpack
 
 * createapp - webpack/Parcel/Snowpack boilerplate generator <https://createapp.dev/webpack>
+* Webpack and Dynamic Imports: Doing it Right | by Rubens Pinheiro Gonçalves Cavalcante | Frontend Weekly | Medium <https://medium.com/front-end-weekly/webpack-and-dynamic-imports-doing-it-right-72549ff49234>
 
 ***
 
