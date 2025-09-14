@@ -2,6 +2,8 @@
 
 * createapp - webpack/Parcel/Snowpack boilerplate generator <https://createapp.dev/webpack>
 * Webpack and Dynamic Imports: Doing it Right | by Rubens Pinheiro Gonçalves Cavalcante | Frontend Weekly | Medium <https://medium.com/front-end-weekly/webpack-and-dynamic-imports-doing-it-right-72549ff49234>
+* Hello from HTML Bundler | HTML Bundler <https://webdiscus.github.io/html-bundler-webpack-plugin/>
+* jantimon/favicons-webpack-plugin: Let webpack generate all your favicons and icons for you <https://github.com/jantimon/favicons-webpack-plugin>
 
 ***
 
