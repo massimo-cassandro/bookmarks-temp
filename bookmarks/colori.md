@@ -100,6 +100,7 @@
 
 
 ## Colori
+* Color Shifting in CSS • Josh W. Comeau <https://www.joshwcomeau.com/animation/color-shifting/>
 * color-mix() <https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/color-mix>
 * CSS color-mix()  |  Chrome for Developers <https://developer.chrome.com/docs/css-ui/css-color-mix>
 * CSS relative color syntax <https://developer.chrome.com/blog/css-relative-color-syntax/>

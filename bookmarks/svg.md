@@ -27,6 +27,7 @@
 * SVG Coding Examples: Useful Recipes For Writing Vectors By Hand — Smashing Magazine <https://www.smashingmagazine.com/2024/09/svg-coding-examples-recipes-writing-vectors-by-hand/>
 * Decoding The SVG path Element: Line Commands — Smashing Magazine <https://www.smashingmagazine.com/2025/06/decoding-svg-path-element-line-commands/>
 * Decoding The SVG path Element: Curve And Arc Commands — Smashing Magazine <https://www.smashingmagazine.com/2025/06/decoding-svg-path-element-curve-arc-commands/>
+* An Interactive Guide to SVG Paths • Josh W. Comeau <https://www.joshwcomeau.com/svg/interactive-guide-to-paths/>
 
 ---
 
