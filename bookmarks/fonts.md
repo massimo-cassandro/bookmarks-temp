@@ -1,6 +1,11 @@
 # fonts
 
 
+* Font-size clamp() generator <https://clamp.font-size.app>
+
+---
+
+
 * Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts patcher <https://www.nerdfonts.com/>
 * ✿ Our favorite set — CopyPasteCharacter.com <https://www.copypastecharacter.com/>
 * CSS Font Stack: Web Safe and Web Font Family with HTML and CSS code. <https://www.cssfontstack.com/>
