@@ -15,6 +15,9 @@
 * Palette Generator <https://www.learnui.design/tools/data-color-picker.html#palette>
 * Ruota colore, un generatore di palette colore | Adobe Color <https://color.adobe.com/it/create/color-wheel>
 
+## tools
+* CSS filter generator to convert from black to target hex color <https://codepen.io/sosuke/pen/Pjoqqp> 
+
 ## colori / JS
 * Qix-/color: Javascript color conversion and manipulation library <https://github.com/Qix-/color>
 * Color.js: Let’s get serious about color • Color.js <https://colorjs.io/>
@@ -106,8 +109,6 @@
 * CSS relative color syntax <https://developer.chrome.com/blog/css-relative-color-syntax/>
 * Simplify Your Color Palette With CSS Color-Mix() <https://www.smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/>
 * Creazione di una combinazione di colori <https://web.dev/articles/building/a-color-scheme?hl=it>
-* CSS filter generator to convert from black to target hex color <https://codepen.io/sosuke/pen/Pjoqqp> 
-* CSS filter generator to convert from black to target hex color <https://codepen.io/sosuke/pen/Pjoqqp>
 * Sass Color Generator <http://scg.ar-ch.org/>
 * cccreate → carefully curated collection of tools for web creators <https://cccreate.co/>
 * Name that Color - Chirag Mehta : chir.ag <https://chir.ag/projects/name-that-color/#9A0B9A>
