@@ -4,6 +4,7 @@
 
 * Omatsuri <https://omatsuri.app/>
 * Patterns  |  Component patterns  |  web.dev <https://web.dev/patterns?hl=en>
+* Plain Text Tables generator – TablesGenerator.com <https://www.tablesgenerator.com/text_tables>
 
 ---
 
