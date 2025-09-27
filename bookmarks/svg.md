@@ -28,6 +28,7 @@
 * Decoding The SVG path Element: Line Commands — Smashing Magazine <https://www.smashingmagazine.com/2025/06/decoding-svg-path-element-line-commands/>
 * Decoding The SVG path Element: Curve And Arc Commands — Smashing Magazine <https://www.smashingmagazine.com/2025/06/decoding-svg-path-element-curve-arc-commands/>
 * An Interactive Guide to SVG Paths • Josh W. Comeau <https://www.joshwcomeau.com/svg/interactive-guide-to-paths/>
+* How to Draw S-Curved Arrows Between Boxes / Rectangles | My name is Alex. <https://dragonman225.js.org/curved-arrows.html>
 
 ---
 
