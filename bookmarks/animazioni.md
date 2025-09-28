@@ -18,5 +18,8 @@
 
 ******
 
-* A Million Little Secrets • Josh W. Comeau <https://www.joshwcomeau.com/blog/whimsical-animations/?from=newsletter>
+* A Million Little Secrets • Josh W. Comeau <https://www.joshwcomeau.com/blog/whimsical-animations/>
+* Twelve basic principles of animation - Wikipedia <https://en.m.wikipedia.org/wiki/Twelve_basic_principles_of_animation>
+* Squash and Stretch • Josh W Comeau's Course Platform <https://courses.joshwcomeau.com/wham/open-house/04-animation-design>
+
 
