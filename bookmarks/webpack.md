@@ -30,4 +30,7 @@
 * How to Share Variables Between Javascript and Sass <https://www.bluematador.com/blog/how-to-share-variables-between-js-and-sass>
 * How to configure SCSS modules for Webpack <https://www.developerhandbook.com/webpack/how-to-configure-scss-modules-for-webpack/>
 * Code Splitting | webpack <https://webpack.js.org/guides/code-splitting/>
+* Browserslist now supports Baseline  |  Blog  |  web.dev <https://web.dev/blog/browserslist-supports-baseline>
+
+
 
