@@ -1,8 +1,6 @@
 # NodeJS
 
-* Output: placeholders | webpack <https://webpack.js.org/configuration/output/#template-strings>
 
----
 
 * Introduction to Node.js <https://nodejs.dev/learn>
 * Api index <https://nodejs.org/dist/latest/docs/api/>

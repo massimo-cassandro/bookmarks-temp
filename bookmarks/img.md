@@ -37,6 +37,8 @@
 
 ## img segnaposto
 
+* Placeholder.com <https://placeholder.com/>
+* Holder.js <http://holderjs.com/>
 * BlurHash <https://blurha.sh/>
 * Placehold | A simple, fast and free image placeholder service <https://placehold.co/>
 * Holder.js <http://holderjs.com/>
@@ -46,6 +48,8 @@
 
 ## Effetti
 * Creating a halftone effect with CSS · leanrada.com <https://leanrada.com/notes/pure-css-halftone/>
+* Draggable Blend Generator <https://codepen.io/petegarvin1/full/rNLZjjQ>
+
 
 ## cloud services / media delivery
 

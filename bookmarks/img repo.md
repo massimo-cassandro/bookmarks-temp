@@ -10,6 +10,7 @@
 * Vecteezy <https://www.vecteezy.com/>
 * 123RF <https://it.123rf.com/>
 
+
 ***
 
 * NASA Visible Earth - Home <https://visibleearth.nasa.gov/>
@@ -18,6 +19,7 @@
 * pixabay <https://pixabay.com/>
 * Generated Photos <https://generated.photos/#>
 * Accidentally Wes Anderson <https://accidentallywesanderson.com/>
+* Free mockup templates and photos <https://mockup.photos/freebies>
 
 
 ## SVG / logos

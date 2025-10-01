@@ -1000,20 +1000,8 @@
 * Refactor and clean your stylesheets with CSS Overview - Chrome DevTools - Dev Tips <https://umaar.com/dev-tips/240-css-overview-improved/>
 *  **DUP** Heroicons <https://heroicons.com/>
 * Image Inconsistencies: How and When Browsers Download Images <https://csswizardry.com/2018/06/image-inconsistencies-how-and-when-browsers-download-images/>
-* Draggable Blend Generator <https://codepen.io/petegarvin1/full/rNLZjjQ>
-* Placeholder.com <https://placeholder.com/>
-* Holder.js <http://holderjs.com/>
-* API gratuita per immagini e video - Pexels <https://www.pexels.com/it-it/api/>
-* https://unsplash.com <https://unsplash.com/>
-* iStock <https://www.istockphoto.com/it>
-* Logos <https://www.logolynx.com/>
-* Immagini gratuite · Pexels <https://www.pexels.com/it-it/>
-* Free mockup templates and photos <https://mockup.photos/freebies>
-* Free Stock Photos, Vectors & PSD Mockups | rawpixel <https://www.rawpixel.com/free-images?sort=shuffle&premium=free&page=1>
-* Free Vectors, Photos and PSD Downloads | Freepik <https://www.freepik.com/>
-* Generated Photos | Unique, worry-free model photos <https://generated.photos/#>
-* Noun Project: Free Icons & Stock Photos for Everything <https://thenounproject.com/>
-* Foto stock, immagini royalty free e grafica vettoriale - Shutterstock <https://www.shutterstock.com/it/home>
+
+
 * texture fabric <https://texturefabrik.com/tag/texture-fabric/>
 *  **DUP** CSS3 Patterns Gallery <https://leaverou.github.io/css3patterns/>
 * Absurd Design - Free Surrealist Illustrations and Vector Art <https://absurd.design/>
