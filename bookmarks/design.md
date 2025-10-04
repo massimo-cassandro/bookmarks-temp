@@ -18,9 +18,6 @@
 * RFS <https://github.com/twbs/rfs>
 * 8 micro tips for remarkably better typography <https://uxdesign.cc/8-micro-tips-for-remarkably-better-typography-986c8c4f6d85>
 * Font pairing made simple <https://fontjoy.com/>
-* Fluid type scale calculator <https://utopia.fyi/type/calculator>
-* Clamp Calculator <https://utopia.fyi/clamp/calculator>
-* Responsive type scales with composable CSS utilities <https://tobiasahlin.com/blog/responsive-fluid-css-type-scales/>
 * Style Manual <http://stylemanual.org/>
 * Butterick’s Practical Typography <https://practicaltypography.com/>
 * Fluid Space Calculator <https://utopia.fyi/space/calculator/>
@@ -269,7 +266,6 @@
 * Shantell Sans <https://shantellsans.com/>
 * Riccardo Falcinelli: giudicare dalla copertina - Frizzifrizzi <https://www.frizzifrizzi.it/2023/03/23/riccardo-falcinelli-giudicare-dalla-copertina/>
 * https://mirrorful.com/ <https://mirrorful.com/>
-* Fluid Type Scale - Generate responsive font-size variables <https://www.fluid-type-scale.com/>
 * Fictional Brands Archive <https://fictionalbrandsarchive.com/>
 * Home - Goldman Sachs Design <https://design.gs.com/home>
 * Dell Design System <https://www.delldesignsystem.com/>

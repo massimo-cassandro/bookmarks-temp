@@ -26,6 +26,20 @@
 
 ## tipografia
 * Rhythm in Web Typography | Better Web Type <https://betterwebtype.com/articles/2018/10/15/rhythm-in-web-typography/>
+* The good line-height <https://www.thegoodlineheight.com/>
+
+## type scale
+* Fluid Type Scale Calculator - Generate font size variables for a fluid type scale <https://www.fluid-type-scale.com/>
+  * Creating a Fluid Type Scale with CSS Clamp | Aleksandr Hovhannisyan <https://www.aleksandrhovhannisyan.com/blog/fluid-type-scale-with-css-clamp/>
+* Modular scale: Every Layout <https://every-layout.dev/rudiments/modular-scale/>
+* Consistent, Fluidly Scaling Type and Spacing | CSS-Tricks <https://css-tricks.com/consistent-fluidly-scaling-type-and-spacing/>
+* Modularscale <https://www.modularscale.com/>
+* Proportio.app <https://proportio.app/>
+* Grid lover (vertcal Rythm) <https://gridlover.net/try>  
+* Fluid Grid Calculator <https://utopia.fyi/grid/calculator/>
+* Fluid Space Calculator <https://utopia.fyi/space/calculator>
+* Modern fluid typography editor <https://modern-fluid-typography.vercel.app/>
+* Fluid type scale calculator | Utopia <https://utopia.fyi/type/calculator/>
 
 
 ## editor

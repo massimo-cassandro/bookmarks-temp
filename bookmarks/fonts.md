@@ -11,23 +11,13 @@
 * CSS Font Stack: Web Safe and Web Font Family with HTML and CSS code. <https://www.cssfontstack.com/>
 * Gutenberg — A Meaningful Web Typography Starter Kit <http://matejlatin.github.io/Gutenberg/>
 * Wakamai Fondue, the tool that answers the question “what can my font do?” <https://wakamaifondue.com/>
-* Modularscale <https://www.modularscale.com/>
-* The good line-height <https://www.thegoodlineheight.com/>
-* Font size calculator <https://www.leserlich.info/werkzeuge/schriftgroessenrechner/index-en.php>
 * Font Library <https://fontlibrary.org/en>
 * Fontsource <https://fontsource.org/>
-* LGC Type Scale - Layout Tools <https://www.layoutgridcalculator.com/type-scale/>
-* Fluid Typography <https://fluid-typography.netlify.app/>
 * Glyphy → Copy & paste glyphs with ease! ♥ <https://www.glyphy.io/>
-* Online Calculators & Tools - RapidTables.com <https://www.rapidtables.com/>
 * Fallback Font Generator <https://screenspan.net/fallback>
-* Fluid Type Scale - Generate responsive font-size variables <https://www.fluid-type-scale.com/>
-* FontDrop! <https://fontdrop.info/#/?darkmode=true>
-* Proportio.app <https://proportio.app/>
-* Grid lover (vertcal Rythm) <https://gridlover.net/try>  
-* Fluid Grid Calculator <https://utopia.fyi/grid/calculator/>
-* Fluid Space Calculator <https://utopia.fyi/space/calculator>
 * FontForge Open Source Font Editor <https://fontforge.org/en-US/>
+* FontDrop! <https://fontdrop.info/#/?darkmode=true>
+
 
 
 ## fonts interessanti
