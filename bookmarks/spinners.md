@@ -13,3 +13,4 @@
 * Loading & progress indicators <https://uxdesign.cc/loading-progress-indicators-ui-components-series-f4b1fc35339a>
 * CSS Loaders: A collection of more than 500 loading animations <https://css-loaders.com/>
 * Loaders | UI Ball <https://uiball.com/loaders>
+* CSS loaders and Spinners <https://cssloaders.github.io/>
