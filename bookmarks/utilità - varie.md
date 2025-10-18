@@ -106,6 +106,8 @@
 * CodeKit - THE Mac App for Web Developers <https://codekitapp.com/>
 * Aerial - A free and open-source Mac Screen Saver <https://aerialscreensaver.github.io/>
 * qarmin/czkawka: Multi functional app to find duplicates, empty folders, similar images etc. <https://github.com/qarmin/czkawka>
+* Flexibits | Cardhop — The contacts app you'll actually want to use. <https://flexibits.com/cardhop>
+
 
 ---- 
 
