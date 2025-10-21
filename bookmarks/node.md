@@ -30,6 +30,8 @@
 * API · TryGhost/node-sqlite3 Wiki <https://github.com/TryGhost/node-sqlite3/wiki/API>
 * SQLite on Node.js with async/await <https://www.scriptol.com/sql/sqlite-async-await.php>
 * The easiest way to get __dirname in Node with ES Modules | Zell Liew <https://zellwk.com/blog/dirname-node-esm/>
+* tabrindle/envinfo: Generate a report about your development environment for debugging and issue reporting <https://github.com/tabrindle/envinfo/>
+
 
 ---
 
