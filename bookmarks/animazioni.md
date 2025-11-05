@@ -26,5 +26,5 @@
   * 12 Principles for Game Animation. Introduction | by Chris Totten | Medium <https://totter87.medium.com/12-principles-for-game-animation-a9137ef44345>
   * THE ILLUSION OF LIFE <https://the12principles.tumblr.com/>
 * Squash and Stretch • Josh W Comeau's Course Platform <https://courses.joshwcomeau.com/wham/open-house/04-animation-design>
-
+* Springs and Bounces in Native CSS • Josh W. Comeau <https://www.joshwcomeau.com/animation/linear-timing-function/>
 
