@@ -63,7 +63,7 @@
 ---
 
 * Designing accessible color systems <https://stripe.com/blog/accessible-color-systems>
-
+* A pragmatic guide to modern CSS colours - part one - Piccalilli <https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-one/>
 * Understanding Success Criterion 1.4.3: Contrast (Minimum) | WAI | W3C <https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html#dfn-relative-luminance>
 * LCH is the best color space for UI | Deep dive into color theory | Atmos <https://atmos.style/blog/lch-color-space>
 * Perceptual Palettes | Accessible Color Palette Generator <https://perceptualpalettes.alexdunn.au/?c=Brand%23ff10fd%2CSecondary%23ffaa02%2CTertiary%232ca3c2%2CNeutral%23000000&l=90%2C80%2C70%2C60%2C35%2C21%2C12%2C6%2C2%2C1%2C0.5&n=false&i=true>
