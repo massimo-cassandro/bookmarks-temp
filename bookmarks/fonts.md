@@ -22,6 +22,7 @@
 
 ## fonts interessanti
 
+* Studio DRAMA - Google Fonts <https://fonts.google.com/?query=Studio+DRAMA>
 * Mozilla Text - Google Fonts <https://fonts.google.com/specimen/Mozilla+Text>
 * Rubik - Google Fonts <https://fonts.google.com/specimen/Rubik>
 * Archivo <https://www.omnibus-type.com/fonts/archivo/>
