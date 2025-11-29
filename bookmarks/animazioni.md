@@ -1,6 +1,8 @@
 # Animazioni
 
 
+* Easing Wizard - CSS Easing Editor and Generator <https://easingwizard.com/>
+* Linear easing generator <https://linear-easing-generator.netlify.app/>
 * Motion — JavaScript & React animation library <https://motion.dev/>
 * The ultimate guide to proper use of animation in UX <https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9>
 * Easing functions cheat sheet <https://easings.net/>
@@ -24,5 +26,5 @@
   * 12 Principles for Game Animation. Introduction | by Chris Totten | Medium <https://totter87.medium.com/12-principles-for-game-animation-a9137ef44345>
   * THE ILLUSION OF LIFE <https://the12principles.tumblr.com/>
 * Squash and Stretch • Josh W Comeau's Course Platform <https://courses.joshwcomeau.com/wham/open-house/04-animation-design>
-
+* Springs and Bounces in Native CSS • Josh W. Comeau <https://www.joshwcomeau.com/animation/linear-timing-function/>
 
