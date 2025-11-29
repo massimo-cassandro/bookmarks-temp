@@ -22,6 +22,7 @@
 
 ## fonts interessanti
 
+* Mozilla Text - Google Fonts <https://fonts.google.com/specimen/Mozilla+Text>
 * Rubik - Google Fonts <https://fonts.google.com/specimen/Rubik>
 * Archivo <https://www.omnibus-type.com/fonts/archivo/>
 * Barlow <https://tribby.com/fonts/barlow/>
