@@ -99,6 +99,7 @@
 * espanso - Cross-platform Text Expander written in Rust <https://espanso.org/>
 * Introduction · macOS Setup Guide <https://sourabhbajaj.com/mac-setup/>
 * Titanium Software | Operating system utilities for Mac - OnyX <https://www.titanium-software.fr/en/onyx.html>
+* TinkerTool <https://www.bresink.com/osx/TinkerTool.html>
 * KeepingYouAwake: Prevents your Mac from going to sleep <https://keepingyouawake.app/>
   * newmarcel/KeepingYouAwake: Prevents your Mac from going to sleep. <https://github.com/newmarcel/KeepingYouAwake>
 * IntelliScape Solutions <https://intelliscapesolutions.com/apps/caffeine>
