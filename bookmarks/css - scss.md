@@ -1,5 +1,9 @@
 # CSS / Sass / PostCSS
 
+* GitHub - cybozu/eslint-config: ESLint rules for Cybozu <https://github.com/cybozu/eslint-config>
+
+---
+
 * Lightning CSS <https://lightningcss.dev/>
 * nth-child Selector Tester <https://nth-child.belter.io/>
 * Vanilla CSS <https://vanillaframework.io/>
