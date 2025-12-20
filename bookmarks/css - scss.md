@@ -4,6 +4,7 @@
 
 ---
 
+* Baseline in action  |  web.dev <https://web.dev/series/baseline-in-action>
 * Lightning CSS <https://lightningcss.dev/>
 * nth-child Selector Tester <https://nth-child.belter.io/>
 * Vanilla CSS <https://vanillaframework.io/>
