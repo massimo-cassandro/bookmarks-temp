@@ -109,7 +109,7 @@
 * Aerial - A free and open-source Mac Screen Saver <https://aerialscreensaver.github.io/>
 * qarmin/czkawka: Multi functional app to find duplicates, empty folders, similar images etc. <https://github.com/qarmin/czkawka>
 * Flexibits | Cardhop — The contacts app you'll actually want to use. <https://flexibits.com/cardhop>
-
+* Little Snitch — Network Monitor and Application Firewall for macOS <https://www.obdev.at/products/littlesnitch/index.html>
 
 ---- 
 
