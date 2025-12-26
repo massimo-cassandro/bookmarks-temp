@@ -3,21 +3,26 @@
 
 * Font-size clamp() generator <https://clamp.font-size.app>
 
-
 ---
 
-
+* Modern Font Stacks <https://modernfontstacks.com/>
+* Glyphhanger — a tool to subset and optimize fonts | Stefan Judis Web Development <https://www.stefanjudis.com/notes/glyphhanger-a-tool-subset-and-optimize-fonts/>
+* CSS Font Stack: Web Safe and Web Font Family with HTML and CSS code. <https://www.cssfontstack.com/>
 * Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts patcher <https://www.nerdfonts.com/>
 * ✿ Our favorite set — CopyPasteCharacter.com <https://www.copypastecharacter.com/>
-* CSS Font Stack: Web Safe and Web Font Family with HTML and CSS code. <https://www.cssfontstack.com/>
 * Gutenberg — A Meaningful Web Typography Starter Kit <http://matejlatin.github.io/Gutenberg/>
 * Wakamai Fondue, the tool that answers the question “what can my font do?” <https://wakamaifondue.com/>
-* Font Library <https://fontlibrary.org/en>
-* Fontsource <https://fontsource.org/>
 * Glyphy → Copy & paste glyphs with ease! ♥ <https://www.glyphy.io/>
 * Fallback Font Generator <https://screenspan.net/fallback>
 * FontDrop! <https://fontdrop.info/#/?darkmode=true>
 * Free Font Converter - WOFF2, WOFF, TTF & OTF | Fontsource <https://fontsource.org/tools/converter>
+* FONT Repo - Free Fonts for Websites & Designs <https://www.fontrepo.com/>
+* Font Face Observer — fast and simple web font loading <https://fontfaceobserver.com/>
+* GitHub - typekit/webfontloader: Web Font Loader gives you added control when using linked fonts via @font-face. <https://github.com/typekit/webfontloader>
+---
+
+* Font Library <https://fontlibrary.org/en>
+* Fontsource <https://fontsource.org/>
 
 
 ## fonts interessanti
@@ -104,16 +109,12 @@
 * Adobe fonts <https://fonts.adobe.com/fonts>
 * Variable fonts - Google Fonts <https://fonts.google.com/variablefonts>
 * Identifying Font Subsetting Opportunities with Web Font Analyzer <https://paulcalvano.com/2024-02-16-identifying-font-subsetting-opportunities/>
-* FontBase — a Free, Beautiful, and Fast Font Manager <https://fontba.se/>
 * A Guide to Recognising Font Styles | Better Web Type <https://betterwebtype.com/articles/2019/07/14/recognising-font-styles/>
 * Text warping - Animated <https://codepen.io/lokesh/full/vYXvwGQ>
 * Preloading fonts: when does it make sense? | Better Web Type <https://betterwebtype.com/articles/2019/11/02/preloading-fonts-when-does-it-make-sense/>
 * Collletttivo <http://collletttivo.it/>
 * Deep dive CSS: font metrics, line-height and vertical-align - Vincent De Oliveira <https://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align>
-* FONT Repo - Free Fonts for Websites & Designs <https://www.fontrepo.com/>
 * Character Entity Reference Chart <https://dev.w3.org/html5/html-author/charref>
-* Font Face Observer — fast and simple web font loading <https://fontfaceobserver.com/>
-* GitHub - typekit/webfontloader: Web Font Loader gives you added control when using linked fonts via @font-face. <https://github.com/typekit/webfontloader>
 * 10 Amazing CSS & JavaScript Text Animation Snippets <https://speckyboy.com/css-javascript-text-animation-snippets/>
 * Understanding diacritics | TypeTogether <https://www.type-together.com/understanding-diacritics>
 * Stop Using Icon Fonts by Michael Irigoyen <https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/>
@@ -128,8 +129,6 @@
 * History of Roman typefaces by MartinSilvertant on DeviantArt <https://www.deviantart.com/martinsilvertant/journal/History-of-Roman-typefaces-343455417>
 * Why Helvetica is not great by MartinSilvertant on DeviantArt <https://www.deviantart.com/martinsilvertant/journal/Why-Helvetica-is-not-great-368382453>
 * How to design a typeface (Part 3) by MartinSilvertant on DeviantArt <https://www.deviantart.com/martinsilvertant/journal/How-to-design-a-typeface-Part-3-375262140>
-* Modern Font Stacks <https://modernfontstacks.com/>
-* Glyphhanger — a tool to subset and optimize fonts | Stefan Judis Web Development <https://www.stefanjudis.com/notes/glyphhanger-a-tool-subset-and-optimize-fonts/>
 * How to Easily Create a Responsive Vertical Rhythm with CSS - Designmodo <https://designmodo.com/vertical-rhythm/>
 * The Ultimate Guide on How to Create a Font - Vandelay Design <https://www.vandelaydesign.com/how-to-create-a-font/>
 * The complete font design process in 5 steps - 99designs <https://99designs.com/blog/web-digital/font-design/>* https://fonts.google.com/knowledge/introducing_type/how_typefaces_are_designed_and_fonts_are_made
@@ -162,7 +161,4 @@
 * FontLab <https://www.fontlab.com/font-editor/fontlab/>
 * FontForge Open Source Font Editor <https://fontforge.org/en-US/>
 * FontStruct | Build, Share, Download Fonts <https://fontstruct.com/>
-
-
-
-
+* FontBase — a Free, Beautiful, and Fast Font Manager <https://fontba.se/>
