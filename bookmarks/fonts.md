@@ -16,7 +16,6 @@
 * Fontsource <https://fontsource.org/>
 * Glyphy → Copy & paste glyphs with ease! ♥ <https://www.glyphy.io/>
 * Fallback Font Generator <https://screenspan.net/fallback>
-* FontForge Open Source Font Editor <https://fontforge.org/en-US/>
 * FontDrop! <https://fontdrop.info/#/?darkmode=true>
 * Free Font Converter - WOFF2, WOFF, TTF & OTF | Fontsource <https://fontsource.org/tools/converter>
 
@@ -35,6 +34,8 @@
 * Figtree <https://fonts.google.com/specimen/Figtree>
 * Rethink Sans <https://fonts.google.com/specimen/Rethink+Sans>
 * Overpass <https://fonts.google.com/specimen/Overpass>
+* Jost - Google Fonts <https://fonts.google.com/specimen/Jost>
+  * indestructible type* <https://indestructibletype.com/Home.html>
 * Rubik <https://fonts.google.com/specimen/Rubik>
 * Space Grotesk <https://fonts.google.com/specimen/Space+Grotesk>
 * Cabin - Google Fonts <https://fonts.google.com/specimen/Cabin>
@@ -105,7 +106,6 @@
 * Identifying Font Subsetting Opportunities with Web Font Analyzer <https://paulcalvano.com/2024-02-16-identifying-font-subsetting-opportunities/>
 * FontBase — a Free, Beautiful, and Fast Font Manager <https://fontba.se/>
 * A Guide to Recognising Font Styles | Better Web Type <https://betterwebtype.com/articles/2019/07/14/recognising-font-styles/>
-* FontStruct | Build, Share, Download Fonts <https://fontstruct.com/>
 * Text warping - Animated <https://codepen.io/lokesh/full/vYXvwGQ>
 * Preloading fonts: when does it make sense? | Better Web Type <https://betterwebtype.com/articles/2019/11/02/preloading-fonts-when-does-it-make-sense/>
 * Collletttivo <http://collletttivo.it/>
@@ -122,6 +122,7 @@
 * Linearly Scale font-size with CSS clamp() Based on the Viewport | CSS-Tricks <https://css-tricks.com/linearly-scale-font-size-with-css-clamp-based-on-the-viewport/>
 * OpenType Features <https://ilovetypography.com/OpenType/opentype-features.html>
 * Frutiger: from a dot to the Paris airport | by Neel Dozome | Sep, 2022 | UX Collective <https://uxdesign.cc/frutiger-from-a-dot-to-the-paris-airport-4a94ddff58d9>
+* Getting started in Typeface Design | by Tapiwanashe Sebastian Garikayi | Medium <https://tapiwanashegarikayi.medium.com/getting-started-in-typeface-design-86a2b6076bb2>
 * How to design a typeface (Part 1) by MartinSilvertant on DeviantArt <https://www.deviantart.com/martinsilvertant/journal/How-to-design-a-typeface-Part-1-362811889>
 * How to design a typeface (Part 2) by MartinSilvertant on DeviantArt <https://www.deviantart.com/martinsilvertant/journal/How-to-design-a-typeface-Part-2-366389001>
 * History of Roman typefaces by MartinSilvertant on DeviantArt <https://www.deviantart.com/martinsilvertant/journal/History-of-Roman-typefaces-343455417>
@@ -130,6 +131,9 @@
 * Modern Font Stacks <https://modernfontstacks.com/>
 * Glyphhanger — a tool to subset and optimize fonts | Stefan Judis Web Development <https://www.stefanjudis.com/notes/glyphhanger-a-tool-subset-and-optimize-fonts/>
 * How to Easily Create a Responsive Vertical Rhythm with CSS - Designmodo <https://designmodo.com/vertical-rhythm/>
+* The Ultimate Guide on How to Create a Font - Vandelay Design <https://www.vandelaydesign.com/how-to-create-a-font/>
+* The complete font design process in 5 steps - 99designs <https://99designs.com/blog/web-digital/font-design/>* https://fonts.google.com/knowledge/introducing_type/how_typefaces_are_designed_and_fonts_are_made
+* Breve storia dei Grotesque <https://www.pixartprinting.it/blog/breve-storia-grotesque/>
 
 ---
 
@@ -155,7 +159,9 @@
 
 ## software
 * Glyphs <https://glyphsapp.com/>
-* FontLab 8 <https://www.fontlab.com/font-editor/fontlab/>
+* FontLab <https://www.fontlab.com/font-editor/fontlab/>
+* FontForge Open Source Font Editor <https://fontforge.org/en-US/>
+* FontStruct | Build, Share, Download Fonts <https://fontstruct.com/>
 
 
 
