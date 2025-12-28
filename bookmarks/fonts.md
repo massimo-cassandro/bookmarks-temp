@@ -132,6 +132,11 @@
 * How to Easily Create a Responsive Vertical Rhythm with CSS - Designmodo <https://designmodo.com/vertical-rhythm/>
 * The Ultimate Guide on How to Create a Font - Vandelay Design <https://www.vandelaydesign.com/how-to-create-a-font/>
 * The complete font design process in 5 steps - 99designs <https://99designs.com/blog/web-digital/font-design/>* https://fonts.google.com/knowledge/introducing_type/how_typefaces_are_designed_and_fonts_are_made
+  * [Designing Fonts](https://www.google.com/books/edition/Designing_Fonts/HHRzzQEACAAJ) by Chris Campe, Ulrike Rausch
+  * [How to Create Typefaces](https://www.google.com/books/edition/How_to_Create_Typefaces/-yW-tAEACAAJ) by Cristóbal Henestrosa, Laura Meseguer, José Scaglione
+  * [Theory of Type Design](https://www.google.com/books/edition/Theory_of_Type_Design/_T9iswEACAAJ) by Gerard Unger
+  * [Inside Paragraphs](https://www.google.com/books/edition/Inside_Paragraphs/nzT3DwAAQBAJ) by Cyrus Highsmith
+  * [Counterpunch](https://www.google.com/books/edition/Counterpunch/dUZUAAAAMAAJ) by Fred Smeijers
 * Breve storia dei Grotesque <https://www.pixartprinting.it/blog/breve-storia-grotesque/>
 
 ---
