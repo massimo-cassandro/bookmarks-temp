@@ -601,7 +601,6 @@
 * SoorajSNBlaze333/tooltip-sequence: A simple step by step tooltip helper for any site <https://github.com/SoorajSNBlaze333/tooltip-sequence>
 * webcomponents.org <https://www.webcomponents.org/>
 * The failed promise of Web Components – Lea Verou <https://lea.verou.me/2020/09/the-failed-promise-of-web-components/>
-* Content delivery networks (CDNs) <https://web.dev/content-delivery-networks/>
 * AddyOsmani.com - Preload late-discovered Hero images faster <https://addyosmani.com/blog/preload-hero-images/>
 * The most useful accessibility testing tools and techniques — Artem Sapegin’s Blog <https://blog.sapegin.me/all/accessibility-testing/>
 * How to read a WebPageTest Waterfall View chart - Matt Hobbs <https://nooshu.github.io/blog/2019/10/02/how-to-read-a-wpt-waterfall-chart/>
@@ -777,7 +776,7 @@
 * More than you ever wanted to know about font loading on the web <https://www.industrialempathy.com/posts/high-performance-web-font-loading/>
 * Brief Note on Popovers with Dialogs — Adrian Roselli <https://adrianroselli.com/2023/05/brief-note-on-popovers-with-dialogs.html>
 * Optimize Time to First Byte <https://web.dev/optimize-ttfb/>
-* CDNs: Speed Up Performance by Reducing Latency <https://austingil.com/file-uploads-cdn/>
+
 * Advancing Interaction to Next Paint <https://web.dev/inp-cwv/>
 * AddyOsmani.com - Debugging Tactics <https://addyosmani.com/blog/debugging-tactics/>
 * How Partytown Eliminates Website Bloat From Third-Party Scripts — Smashing Magazine <https://www.smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/>

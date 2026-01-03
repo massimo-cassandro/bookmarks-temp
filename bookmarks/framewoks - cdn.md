@@ -1,11 +1,6 @@
 # Frameworks / Librerie
 
 
-
-
---- 
-
-
 * The Fastest Frontend for the Modern Web | Gatsby <https://www.gatsbyjs.com/>
 * Getting Started With Next.js — Smashing Magazine <https://www.smashingmagazine.com/2020/10/getting-started-with-next-js/>
 * Next.js by Vercel - The React Framework <https://nextjs.org/>
@@ -19,3 +14,9 @@
 * </> htmx - high power tools for html <https://htmx.org/>
 * Vanilla documentation <https://vanillaframework.io/>
 
+
+## cdn
+
+* ESM>CDN <https://esm.sh/>
+* Content delivery networks (CDNs) <https://web.dev/content-delivery-networks/>
+* CDNs: Speed Up Performance by Reducing Latency <https://austingil.com/file-uploads-cdn/>
