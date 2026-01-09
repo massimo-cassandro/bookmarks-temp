@@ -5,3 +5,6 @@
   * CSS scroll-triggered animations are coming!  |  Blog  |  Chrome for Developers <https://developer.chrome.com/blog/scroll-triggered-animations>
 * Art Basel: 2013–14 — Barnbrook Barnbrook <https://barnbrook.net/work/art-basel-2013-14/>
   * Art Basel: Rebrand — Barnbrook Barnbrook <https://barnbrook.net/work/art-basel-2018-19/>
+* Applied Design Works <https://helloapplied.com/>
+
+
