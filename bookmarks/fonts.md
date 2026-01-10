@@ -27,6 +27,7 @@
 
 ## fonts interessanti
 
+* TYPE BY <https://www.typeby.com/>
 * Studio DRAMA - Google Fonts <https://fonts.google.com/?query=Studio+DRAMA>
   * Projects — Studio DRAMA <https://studio-drama.com/projects>
   * Mozilla Text - Google Fonts <https://fonts.google.com/specimen/Mozilla+Text>
