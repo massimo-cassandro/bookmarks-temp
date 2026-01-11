@@ -162,9 +162,13 @@
 * A checklist for choosing type – Fonts Knowledge - Google Fonts <https://fonts.google.com/knowledge/choosing_type/a_checklist_for_choosing_type>
 
 
-## software
+## software & libs
 * Glyphs <https://glyphsapp.com/>
 * FontLab <https://www.fontlab.com/font-editor/fontlab/>
 * FontForge Open Source Font Editor <https://fontforge.org/en-US/>
 * FontStruct | Build, Share, Download Fonts <https://fontstruct.com/>
 * FontBase — a Free, Beautiful, and Fast Font Manager <https://fontba.se/>
+* soulwire/FontMetrics: A lightweight JavaScript library for computing accurate font metrics such as x-height, cap height, ascent, descent and tittle for any loaded web font. <https://github.com/soulwire/FontMetrics>
+
+
+
