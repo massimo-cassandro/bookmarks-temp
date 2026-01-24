@@ -123,4 +123,5 @@
 * FreeCAD: Il tuo modellatore 3D parametrico <https://www.freecad.org/index.php?lang=it>
 * OpenSCAD - The Programmers Solid 3D CAD Modeller <https://openscad.org/>
 * Xnapper – The Beautiful Screenshot App for Mac <https://xnapper.com/>
-* AppCleaner <https://freemacsoft.net/appcleaner/>
+* AppCleaner - AppCleaner is a small application which allows you to thoroughly uninstall unwanted apps. <https://freemacsoft.net/appcleaner/>
+* Airflow - The ultimate way to watch your videos on Chromecast, Apple TV and AirPlay 2 enabled TVs. <https://airflow.app/>
