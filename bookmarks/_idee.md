@@ -7,5 +7,5 @@
   * ![art-basel](../imgs/art-basel.jpg)
   * Art Basel: Rebrand — Barnbrook Barnbrook <https://barnbrook.net/work/art-basel-2018-19/>
 * Applied Design Works <https://helloapplied.com/>
-
+* Cos’è un’esperienza: il ritorno del DVD - Luca Rosati <https://www.lucarosati.it/blog/esperienza-dvd>
 
