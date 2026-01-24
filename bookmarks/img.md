@@ -61,6 +61,7 @@
 
 
 ## software / web apps
+* GraphicConverter <https://www.lemkesoft.de/en/products/graphicconverter>
 * gifski — highest-quality GIF converter <https://gif.ski/>
 * GIF Brewery by Gfycat <https://gfycat.com/gifbrewery>
 * ImageAlpha — image minifier (like JPEG with transparency!) <https://pngmini.com/>
