@@ -123,6 +123,7 @@
 * Xnapper – The Beautiful Screenshot App for Mac <https://xnapper.com/>
 * AppCleaner - AppCleaner is a small application which allows you to thoroughly uninstall unwanted apps. <https://freemacsoft.net/appcleaner/>
 * Airflow - The ultimate way to watch your videos on Chromecast, Apple TV and AirPlay 2 enabled TVs. <https://airflow.app/>
+* Ds Store Remover | Get rid of unwanted .DS_Store (and Thumbs.db) files on your Mac <https://dsstoreremover.wordpress.com/>
 
 ---
 
