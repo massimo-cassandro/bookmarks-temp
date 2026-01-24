@@ -62,7 +62,6 @@
 * Building a loading bar component <https://web.dev/building-a-loading-bar-component/>
 * Browser in the Dark: flashlights with CSS and canvas <https://voussoir.net/writing/browser_in_the_dark>
 * Dialog Components: Go Native HTML or Roll Your Own? | CSS-Tricks - CSS-Tricks <https://css-tricks.com/dialog-components-roll-your-own/>
-* Tools Archives - Text Cleaner <https://textcleaner.net/tools/>
 * Aspects of Accessibility (a11y) - Semantics, Contrast and... Anxiety? <https://sarajw.hashnode.dev/aspects-of-accessibility-a11y-semantics-contrast-and-anxiety>
 * Avoiding <img> layout shifts: aspect-ratio vs width & height attributes - JakeArchibald.com <https://jakearchibald.com/2022/img-aspect-ratio/>
 * Embed Latex Math Into Your Website or Blog - Embed Fun <https://embed.fun/>
@@ -883,16 +882,13 @@
 * A Visual Guide to References in JavaScript <https://daveceddia.com/javascript-references/>
 * You Don’t Need A UI Framework — Smashing Magazine <https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/>
 * Text Guidelines - Reflowable <https://kdp.amazon.com/en_US/help/topic/GH4DRT75GWWAGBTU>
-* SVG Gobbler <https://www.svggobbler.com/>
-* yourbrowser.is - Learn your customer browser details, without even having to ask. <https://yourbrowser.is/>
-* Browser Details | Support Details | Tech Support | Computer Details <http://www.supportdetails.net/>
+
 * Patterns - Privacy Patterns <https://privacypatterns.org/patterns/>
 *  **DUP** After Dark Screensavers in CSS <https://www.bryanbraun.com/after-dark-css/>
 * drawcall/clock-shop: 🕙⏰🕰 Clock Shop is a website that collects beautiful clock codes <https://github.com/drawcall/clock-shop>
 * TYPE HUNTING <https://typehunting.com/>
 * Make Bookmarklets · Make it easy <https://make-bookmarklets.com/>
 * Creating a Clock with the New CSS sin() and cos() Trigonometry Functions | CSS-Tricks - CSS-Tricks <https://css-tricks.com/creating-a-clock-with-the-new-css-sin-and-cos-trigonometry-functions/>
-* Modern Font Stacks <https://modernfontstacks.com/>
 * Common Beginner Mistakes with React <https://www.joshwcomeau.com/react/common-beginner-mistakes/>
 * Trigonometric functions in CSS <https://web.dev/css-trig-functions/>
 * Licenses – Open Source Initiative <https://opensource.org/licenses/>

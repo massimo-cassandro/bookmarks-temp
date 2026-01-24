@@ -14,6 +14,7 @@
 * Colorable <https://colorable.jxnblk.com/>
 * Palette Generator <https://www.learnui.design/tools/data-color-picker.html#palette>
 * Ruota colore, un generatore di palette colore | Adobe Color <https://color.adobe.com/it/create/color-wheel>
+* How to create a color ramp used in design systems <https://uxdesign.cc/how-to-create-a-color-ramp-used-in-design-systems-2edd5b93854c>
 
 ## tools
 * CSS filter generator to convert from black to target hex color <https://codepen.io/sosuke/pen/Pjoqqp> 

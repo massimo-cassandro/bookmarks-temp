@@ -5,6 +5,8 @@
 * Omatsuri <https://omatsuri.app/>
 * Patterns  |  Component patterns  |  web.dev <https://web.dev/patterns?hl=en>
 * Plain Text Tables generator – TablesGenerator.com <https://www.tablesgenerator.com/text_tables>
+* SVG Gobbler <https://www.svggobbler.com/>
+* yourbrowser.is - Learn your customer browser details, without even having to ask. <https://yourbrowser.is/>
 
 ---
 
@@ -121,3 +123,4 @@
 * FreeCAD: Il tuo modellatore 3D parametrico <https://www.freecad.org/index.php?lang=it>
 * OpenSCAD - The Programmers Solid 3D CAD Modeller <https://openscad.org/>
 * Xnapper – The Beautiful Screenshot App for Mac <https://xnapper.com/>
+* AppCleaner <https://freemacsoft.net/appcleaner/>
