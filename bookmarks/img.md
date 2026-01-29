@@ -15,6 +15,7 @@
 
 ## Img manipulation
 
+* Compressor.js <https://fengyuanchen.github.io/compressorjs/>
 * Convert images for web using the Sips command line on MacOSX | by Mickaël Riga | Shell Life | Medium <https://medium.com/shell-life/convert-images-for-web-using-the-sips-command-line-on-macosx-656c502a67a6>
 * @squoosh/lib - npm <https://www.npmjs.com/package/@squoosh/lib>
 * @squoosh/cli - npm <https://www.npmjs.com/package/@squoosh/cli>
