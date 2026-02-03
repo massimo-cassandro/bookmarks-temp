@@ -10,6 +10,10 @@
 * trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings <https://github.com/trekhleb/javascript-algorithms/tree/master>
 * humanwhocodes/computer-science-in-javascript: Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript. <https://github.com/humanwhocodes/computer-science-in-javascript>
 
+***
+
+* URL-Safe LZMA Compression <https://gist.github.com/massimo-cassandro/23d87c000d7afe4225c07b5a8f5c3b92>
+
 ## Javascript / typescript
 
 
@@ -29,6 +33,8 @@
 * Cell Object | SheetJS Community Edition <https://docs.sheetjs.com/docs/csf/cell>
 * Overview | SheetJS Community Edition <https://docs.sheetjs.com/docs/>
 * Platform.js <https://github.com/bestiejs/platform.js#readme>
+
+----
 
 * Sugar - a Javascript utility library for working with native objects. <https://sugarjs.com/>
 * Typescript Playground <https://www.typescriptlang.org/play>
@@ -52,6 +58,8 @@
 * DataTables example - HTML5 data-* attributes - cell data <https://datatables.net/examples/advanced_init/html5-data-attributes.html>
 * Orthogonal data <https://datatables.net/manual/data/orthogonal-data>
 
+***
+
 * SheetJS Community Edition <https://docs.sheetjs.com/docs/> 
 * Moment.js | Docs <https://momentjs.com/docs/>
 * jQuery API Documentation <https://api.jquery.com/>
@@ -70,7 +78,6 @@
 * CodeSandbox <https://codesandbox.io/s/test-rvbu9g>
 * CodePen <http://codepen.io>
 * StackBlitz <https://stackblitz.com/>
-
 
 
 ## jquery
