@@ -27,6 +27,10 @@
 
 ## fonts interessanti
 
+* indestructible type* <https://indestructibletype.com/Home.html>
+  * Jost* <https://indestructibletype.com/Jost.html>
+  * Besley* <https://indestructibletype.com/Besley.html>
+    * Besley - Google Fonts <https://fonts.google.com/specimen/Besley>
 * TYPE BY <https://www.typeby.com/>
 * Studio DRAMA - Google Fonts <https://fonts.google.com/?query=Studio+DRAMA>
   * Projects — Studio DRAMA <https://studio-drama.com/projects>
