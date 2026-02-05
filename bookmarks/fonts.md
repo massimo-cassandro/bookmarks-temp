@@ -29,6 +29,7 @@
 
 * indestructible type* <https://indestructibletype.com/Home.html>
   * Jost* <https://indestructibletype.com/Jost.html>
+    * Jost - Google Fonts <https://fonts.google.com/specimen/Jost>
   * Besley* <https://indestructibletype.com/Besley.html>
     * Besley - Google Fonts <https://fonts.google.com/specimen/Besley>
 * TYPE BY <https://www.typeby.com/>
@@ -44,8 +45,6 @@
 * Figtree <https://fonts.google.com/specimen/Figtree>
 * Rethink Sans <https://fonts.google.com/specimen/Rethink+Sans>
 * Overpass <https://fonts.google.com/specimen/Overpass>
-* Jost - Google Fonts <https://fonts.google.com/specimen/Jost>
-  * indestructible type* <https://indestructibletype.com/Home.html>
 * Rubik <https://fonts.google.com/specimen/Rubik>
 * Space Grotesk <https://fonts.google.com/specimen/Space+Grotesk>
 * Cabin - Google Fonts <https://fonts.google.com/specimen/Cabin>
