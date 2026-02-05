@@ -127,6 +127,7 @@
 * https://about.asika.tw/spectrum-vanilla/
 * https://vanilla-picker.js.org/
 * https://iamkulykov.com/vanilla-colorful/
+* argyleink/css-color-component: a modern color picker for the web with support for all spaces <https://github.com/argyleink/css-color-component>
 
 
 ## Reference
