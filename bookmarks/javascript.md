@@ -14,6 +14,7 @@
 
 * URL-Safe LZMA Compression <https://gist.github.com/massimo-cassandro/23d87c000d7afe4225c07b5a8f5c3b92>
 * Simple .zip file generation with JavaScript using JSZip <https://gist.github.com/loilo/eecdf1e9507257fffea2dc15c77a0680>
+* localForage <https://localforage.github.io/localForage/>
 
 ## Javascript / typescript
 
