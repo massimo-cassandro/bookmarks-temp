@@ -29,6 +29,7 @@
 * The good line-height <https://www.thegoodlineheight.com/>
 
 ## type scale
+* doppler <https://hihayk.github.io/doppler/>
 * Fluid Type Scale Calculator - Generate font size variables for a fluid type scale <https://www.fluid-type-scale.com/>
   * Creating a Fluid Type Scale with CSS Clamp | Aleksandr Hovhannisyan <https://www.aleksandrhovhannisyan.com/blog/fluid-type-scale-with-css-clamp/>
 * Modular scale: Every Layout <https://every-layout.dev/rudiments/modular-scale/>
