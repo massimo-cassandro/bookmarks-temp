@@ -21,6 +21,7 @@
 * Advanced Topic: Setting Custom Exclusions via XML – Backblaze Help <https://help.backblaze.com/hc/en-us/articles/220973007-Advanced-Topic-Setting-Custom-Exclusions-via-XML>
 
 ## Video
+* Hayk An <https://hayk.design/#/loom-video-player>
 * ScrollyVideo.js <https://scrollyvideo.js.org/>
 * Build a Custom HTML5 Video Player With JavaScript <https://cloudinary.com/blog/build-a-custom-html5-video-player-with-javascript>
 * paulirish/lite-youtube-embed: A faster youtube embed. <https://github.com/paulirish/lite-youtube-embed>
