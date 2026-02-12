@@ -10,6 +10,7 @@
 * Shade generator | Create uniform shades and tints | Atmos <https://atmos.style/shade-generator>
 * cccolor → clean & simple color picker for web designers <https://fffuel.co/cccolor/>
 * Scale — color scale generator <https://hihayk.github.io/scale/>
+* shaper — interface styles shaper <https://hihayk.github.io/shaper/>
 * hue.tools – mix <https://hue.tools/mix?colors=b75b5dff%3B37e965ff&steps=10&view=steps&mode=lch&format=hex>
 * Colorable <https://colorable.jxnblk.com/>
 * Palette Generator <https://www.learnui.design/tools/data-color-picker.html#palette>
