@@ -14,6 +14,10 @@
 * Semiotic is a data visualization framework for React. <https://semiotic.nteract.io/>
 * Frappe Gantt <https://frappe.io/gantt>
 * Rosen Charts <https://rosencharts.com/>
+
+---
+
+* Financial Times Visual Vocabulary <https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary>
   
 ## Maps
 

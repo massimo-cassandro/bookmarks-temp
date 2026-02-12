@@ -50,11 +50,7 @@
 
 ## Dashboard
 * Dashboard Design Patterns <https://dashboarddesignpatterns.github.io/>
-* How to Design a Dashboard <https://dataschool.com/how-to-design-a-dashboard/>
-* Financial Times Visual Vocabulary <https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary>
-* Packagecloud <https://packagecloud.io/>
-* Your private npm registry <https://fury.co/l/private-npm>
-* Verdaccio. A lightweight Node.js private proxy registry <https://verdaccio.org/>
+
 
 
 
@@ -187,8 +183,8 @@
 * Open Source Color System <https://www.opensourcecolorsystem.design/>
 * Archive - LogoArchive’s Logo Histories <https://www.logohistories.com/archive>
 
-* Tools | Hype4Academy <https://hype4.academy/tools>
 
+----
 
 * Designing The Perfect Accordion — Smashing Magazine <https://www.smashingmagazine.com/2017/06/designing-perfect-accordion-checklist/>
 * Designing Better Breadcrumbs — Smashing Magazine <https://www.smashingmagazine.com/2022/04/designing-better-breadcrumbs/>
