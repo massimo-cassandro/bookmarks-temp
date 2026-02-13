@@ -9,6 +9,7 @@
   * A systematic approach to generating enterprise UI color palettes | by Francis Wu | UX Collective <https://uxdesign.cc/a-systematic-approach-to-generating-enterprise-ui-color-palettes-ecaf0c164c17>
 * Shade generator | Create uniform shades and tints | Atmos <https://atmos.style/shade-generator>
 * cccolor → clean & simple color picker for web designers <https://fffuel.co/cccolor/>
+* pppalette: friendly color palette generator for beautiful colors | fffuel <https://www.fffuel.co/pppalette/>
 * Scale — color scale generator <https://hihayk.github.io/scale/>
 * shaper — interface styles shaper <https://hihayk.github.io/shaper/>
 * hue.tools – mix <https://hue.tools/mix?colors=b75b5dff%3B37e965ff&steps=10&view=steps&mode=lch&format=hex>
