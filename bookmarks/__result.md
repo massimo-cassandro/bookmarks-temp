@@ -811,7 +811,6 @@
 * How to write a JavaScript-free todo app using just HTML and CSS <https://www.mattzeunert.com/2017/10/30/javascript-free-todo-app.html>
 * Software di Presentazione Virtuale | Strumenti di presentazione online | Prezi <https://prezi.com/>
 * PANTONE® 19-4052 TPG Classic Blue - Trova un colore Pantone |Strumento di ricerca rapida online | Pantone Italia <https://www.pantone.com/eu/it/color-finder/19-4052-TPG>
-* Ebook Reader for web <https://www.loudreader.com/>
 * Browser Default Styles <https://browserdefaultstyles.com/>
 * Parse a user agent - WhatIsMyBrowser.com <https://developers.whatismybrowser.com/useragents/parse/>
 * Copyscape Plagiarism Checker - Duplicate Content Detection Software <https://www.copyscape.com/>
@@ -903,8 +902,6 @@
 * Fast and reliable end-to-end testing for modern web apps | Playwright <https://playwright.dev/>
 * Free for Developers <https://free-for.dev/#/>
 * Professional Project Management for Mac & iPad with Merlin Project <https://www.projectwizards.net/en/merlin-project>
-* Kindle Comic Creator <https://kdp.amazon.com/it_IT/help/topic/G201217140>
-* GitHub - ciromattia/kcc: KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers. <https://github.com/ciromattia/kcc>
 * Randomness in CSS. | by Kacper Kula | hypersphere <https://medium.com/hypersphere-codes/randomness-in-css-b55a0845c8dd>
 
 
