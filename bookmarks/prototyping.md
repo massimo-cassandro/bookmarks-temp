@@ -1,5 +1,6 @@
 # Prototyping
 
+* Setting up typography variables in Figma | by Allie Paschal | UX Collective <https://uxdesign.cc/set-up-typography-variables-in-figma-359cfea88b68>
 * Tutorials | Framer <https://www.framer.com/tutorials/>
 * Screenshot.Rocks | Create mobile or browser mockups from screenshots <https://screenshot.rocks/>
 * Vertical Rhythm in Sketch | Better Web Type <https://betterwebtype.com/articles/2019/07/02/designing-with-a-baseline-grid-and-vertical-rhythm-in-sketch/>
