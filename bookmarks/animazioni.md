@@ -1,6 +1,7 @@
 # Animazioni
 
 
+* Sprites on the Web • Josh W. Comeau <https://www.joshwcomeau.com/animation/sprites/>
 * Easing Wizard - CSS Easing Editor and Generator <https://easingwizard.com/>
 * Linear easing generator <https://linear-easing-generator.netlify.app/>
 * Motion — JavaScript & React animation library <https://motion.dev/>
