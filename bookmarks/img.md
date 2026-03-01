@@ -8,6 +8,7 @@
 
 -----
 
+* Sizes="auto" pretty much requires width and height attributes — ericportis.com <https://ericportis.com/posts/2023/auto-sizes-pretty-much-requires-width-and-height/>
 * How to preload responsive images with imagesizes and imagesrcset | Stefan Judis Web Development <https://www.stefanjudis.com/today-i-learned/how-to-preload-responsive-images-with-imagesizes-and-imagesrcset/>
 * link: The External Resource Link element - HTML: HyperText Markup Language | MDN <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link#rel>
 
