@@ -40,7 +40,6 @@
 
 ## img segnaposto
 
-* Placeholder.com <https://placeholder.com/>
 * Holder.js <http://holderjs.com/>
 * BlurHash <https://blurha.sh/>
 * Placehold | A simple, fast and free image placeholder service <https://placehold.co/>
