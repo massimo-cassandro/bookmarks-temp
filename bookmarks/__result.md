@@ -224,7 +224,6 @@
 * Underscore.js <https://underscorejs.org/>
 * Modern Javascript: Everything you missed over the last 10 years by Sandro Turriate <https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years>
 * How to Dynamically Import ECMAScript Modules <https://dmitripavlutin.com/ecmascript-modules-dynamic-import/>
-* Frappe DataTable - A simple, modern datatable library for the web <https://frappe.io/datatable>
 * CSS feature detection in JavaScript?! <https://areknawo.com/css-feature-detection-in-javascript/>
 * How to Share Variables Between Javascript and Sass <https://www.bluematador.com/blog/how-to-share-variables-between-js-and-sass>
 * What is a Promise in JavaScript? <https://dmitripavlutin.com/what-is-javascript-promise/>
