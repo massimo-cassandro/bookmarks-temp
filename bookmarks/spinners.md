@@ -1,6 +1,6 @@
 # spinners
 
-
+* CSS loaders and Spinners <https://cssloaders.github.io/>
 * LDRS — UI Ball <https://uiball.com/ldrs/>
 * Single Element CSS Spinners <https://projects.lukehaas.me/css-loaders/>
 * Pure CSS Loader - Optimized Spinners for Web · Loading.io <https://loading.io/css/>
