@@ -31,6 +31,7 @@
 
 ---
 
+* Animate to height: auto; (and other intrinsic sizing keywords) in CSS  |  CSS and UI  |  Chrome for Developers <https://developer.chrome.com/docs/css-ui/animate-to-height-auto>
 * The Coyier CSS Starter – Frontend Masters Blog <https://frontendmasters.com/blog/the-coyier-css-starter/>
 * Overflow/scrollbar detection using modern CSS <https://css-tip.com/overflow-detection/>
 * Partial Keyframes • Josh W. Comeau <https://www.joshwcomeau.com/animation/partial-keyframes/>
