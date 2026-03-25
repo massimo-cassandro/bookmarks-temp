@@ -37,7 +37,7 @@
 * Design Tokens in Practice: From Figma Variables to Production Code | by Roberto Moreno Celta | Design Systems Collective <https://www.designsystemscollective.com/design-tokens-in-practice-from-figma-variables-to-production-code-fd40aeccd6f5>
 * Open Props tokens (https://open-props.style/) <https://unpkg.com/open-props/open-props.tokens.json> 
 * Design Tokens Manager | Figma <https://www.figma.com/community/plugin/1263743870981744253/design-tokens-manager>
-
+* Style Dictionary + SD Transforms | Tokens Studio for Figma <https://docs.tokens.studio/transform-tokens/style-dictionary>
 ---
 
 Altri token manager per fignma:

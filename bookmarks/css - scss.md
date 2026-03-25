@@ -3,7 +3,7 @@
 
 
 * Open Props: sub-atomic styles <https://open-props.style/>
-* Open Props UI <https://open-props-ui.netlify.app/>
+
 
 ---
 
