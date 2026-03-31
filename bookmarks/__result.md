@@ -323,9 +323,6 @@
 * Coding Fonts <https://coding-fonts.css-tricks.com/>
 * Download HitFilm Express - Free Video Editing Software - FXhome <https://fxhome.com/product/hitfilm-express>
 * Products | Navicat <https://www.navicat.com/en/products>
-* SQLiteStudio <https://sqlitestudio.pl/>
-* DB Browser for SQLite <https://sqlitebrowser.org/>
-* Azure Data Studio - SQL Server | Microsoft Docs <https://docs.microsoft.com/it-it/sql/azure-data-studio/?view=sql-server-ver15>
 * Simplenote <https://simplenote.com/>
 * antonreshetov/image-optimizer: A free and open source tool for optimizing images and vector graphics. <https://github.com/antonreshetov/image-optimizer>
 * Manuale utente di Utility ColorSync per il Mac - Supporto Apple (IT) <https://support.apple.com/it-it/guide/colorsync-utility/welcome/mac>
@@ -547,7 +544,6 @@
 * Creating a Custom Element from Scratch | CSS-Tricks <https://css-tricks.com/creating-a-custom-element-from-scratch/>
 * Encapsulating Style and Structure with Shadow DOM | CSS-Tricks <https://css-tricks.com/encapsulating-style-and-structure-with-shadow-dom/>
 * Advanced Tooling for Web Components | CSS-Tricks <https://css-tricks.com/advanced-tooling-for-web-components/>
-* SQLite Tutorial - An Easy Way to Master SQLite Fast <https://www.sqlitetutorial.net/>
 * Password Protecting a Website with the Free Tier of Netlify (and Publishing with a Single NPM Script) | by John Mars | Medium <https://medium.com/@j0hnm4r5/password-protecting-a-website-with-the-free-tier-of-netlify-and-publishing-with-a-single-npm-e509af9f108f>
 * Front-End Performance Checklist 2020 [PDF, Apple Pages, MS Word] — Smashing Magazine <https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/>
 * Ruffle | Flash Player emulator written in the Rust programming language <https://ruffle.rs/#>

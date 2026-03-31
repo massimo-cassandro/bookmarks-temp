@@ -12,7 +12,6 @@
 
 * JSON Generator <https://www.jsongenerator.io/>
 * JSON generator <https://next.json-generator.com/> 
-* JSON To SQL Converter <http://convertjson.com/json-to-sql.htm>
 * JSONPlaceholder - Free Fake REST API <https://jsonplaceholder.typicode.com/>
 * JSON editor <https://jsoneditoronline.org/> 
 * Convert JSON to YAML <https://www.json2yaml.com/>

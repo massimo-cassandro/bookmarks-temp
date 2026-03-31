@@ -12,7 +12,6 @@
 
 ---
 
-* SQLite Node.js Tutorial <https://www.sqlitetutorial.net/sqlite-nodejs/>
 * How to Convert HTML to an Image Using Puppeteer in Node.js | CheatCode <https://cheatcode.co/tutorials/how-to-convert-html-to-an-image-using-puppeteer-in-node-js>
 * Develop. Preview. Ship. For the best frontend teams – Vercel <https://vercel.com/>
 * Implementing __dirname in ES6 modules using import.meta.url <https://techsparx.com/nodejs/esnext/dirname-es-modules.html>
@@ -27,8 +26,7 @@
 * jimp - npm <https://www.npmjs.com/package/jimp>
 * sharp - High performance Node.js image processing <https://sharp.pixelplumbing.com/>
 * An introduction to debugging in Node.js <https://blog.openreplay.com/an-introduction-to-debugging-in-nodejs/>
-* API · TryGhost/node-sqlite3 Wiki <https://github.com/TryGhost/node-sqlite3/wiki/API>
-* SQLite on Node.js with async/await <https://www.scriptol.com/sql/sqlite-async-await.php>
+
 * The easiest way to get __dirname in Node with ES Modules | Zell Liew <https://zellwk.com/blog/dirname-node-esm/>
 * tabrindle/envinfo: Generate a report about your development environment for debugging and issue reporting <https://github.com/tabrindle/envinfo/>
 
