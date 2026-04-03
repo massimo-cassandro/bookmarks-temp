@@ -23,7 +23,7 @@
 
 * Font Library <https://fontlibrary.org/en>
 * Fontsource <https://fontsource.org/>
-
+* Freebies - Daily Free Goods for Crafters & Designers - Creative Fabrica <https://www.creativefabrica.com/freebies/>
 
 ## fonts interessanti
 
