@@ -23,6 +23,7 @@
 ******
 
 * Squash and Stretch • Josh W. Comeau <https://www.joshwcomeau.com/animation/squash-and-stretch/>
+  * [Squash and Stretch • Josh W Comeau's Course Platform](../files/Squash and Stretch • Josh W Comeau/Squash and Stretch • Josh W Comeau's Course Platform.html)
 * A Million Little Secrets • Josh W. Comeau <https://www.joshwcomeau.com/blog/whimsical-animations/>
 * Twelve basic principles of animation - Wikipedia <https://en.m.wikipedia.org/wiki/Twelve_basic_principles_of_animation>
   * 12 Principles for Game Animation. Introduction | by Chris Totten | Medium <https://totter87.medium.com/12-principles-for-game-animation-a9137ef44345>

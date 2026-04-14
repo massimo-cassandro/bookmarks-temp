@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F[courseSlug]\u002Ftreasure-trove","\u002F[courseSlug]\u002Fvideo-archive","\u002Fpresentations\u002F[presentationSlug]","\u002Fvideos\u002Fanimation-design","\u002Fwhimsy"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

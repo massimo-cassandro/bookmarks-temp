@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Sandbox - Josh’s Course Platform</title>
+    <link rel="manifest" href="https://sandpack-bundler.vercel.app/manifest.json">
+    <link rel="shortcut icon" href="https://sandpack-bundler.vercel.app/favicon.ico">
+    <link rel="mask-icon" href="https://sandpack-bundler.vercel.app/csb-ios.svg" color="#fff">
+    <script src="a_data_003/browserfs.min.js" type="text/javascript"></script>
+    <script>
+      (window.process = BrowserFS.BFSRequire('process')),
+        (window.Buffer = BrowserFS.BFSRequire('buffer').Buffer);
+    </script>
+  <link href="https://sandpack-bundler.vercel.app/static/js/babel.7.12.12.min.js" rel="prefetch" as="script"><style id="/reset.css:-css" type="text/css">/*
+  Josh's Custom CSS Reset
+  https://www.joshwcomeau.com/css/custom-css-reset/
+*/
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+}
+html, body {
+  height: 100%;
+}
+body {
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+input, button, textarea, select {
+  font: inherit;
+}
+p, h1, h2, h3, h4, h5, h6 {
+  overflow-wrap: break-word;
+}
+#root, #__next {
+  isolation: isolate;
+}
+
+/* Basic theme styles */
+body {
+  padding: 16px;
+  font-family: 'Wotfard', sans-serif;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th {
+  text-align: left;
+  border-bottom: 3px solid hsl(0deg 0% 25%);
+}
+th[scope="col"] {
+  text-align: right;
+  border-right: 3px solid hsl(0deg 0% 25%);
+  border-bottom: none;
+  padding-right: 8px;
+}
+tr:not(:last-of-type) th[scope="col"],
+tr:not(:last-of-type) td {
+  border-bottom: 1px solid hsl(0deg 0% 50%);
+}
+
+/* Custom fonts */
+@font-face {
+  font-family: 'Wotfard';
+  src: url('https://sandpack-bundler.vercel.app/fonts/wotfard/wotfard-semibold-webfont.woff2')
+    format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Wotfard';
+  src: url('https://sandpack-bundler.vercel.app/fonts/wotfard/wotfard-medium-webfont.woff2')
+    format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Wotfard';
+  src: url('https://sandpack-bundler.vercel.app/fonts/wotfard/wotfard-regular-webfont.woff2')
+    format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: fallback;
+}
+
+:root {
+  --font-family: 'Wotfard', sans-serif;
+}</style><style id="/styles.css:-css" type="text/css">body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  height: 100svh;
+  background: hsl(210deg 15% 6%);
+  color: white;
+}
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 16px;
+  margin: 0;
+  border: 2px solid hsl(210deg 15% 25%);
+  color: white;
+  background: transparent;
+  cursor: pointer;
+}
+svg {
+  fill: none;
+  width: 64px;
+  height: 64px;
+  stroke: white;
+  stroke-width: 2px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  overflow: visible;
+}
+.visually-hidden:not(:focus):not(:active) {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  white-space: nowrap;
+}</style><script charset="utf-8" src="a_data_003/2.61b71a6f1.chunk.js"></script><script charset="utf-8" src="a_data_003/6.147d49776.chunk.js"></script></head>
+  <body><style>
+  html {
+    --spring-easing: linear(0, 0.009, 0.036 1.6%, 0.148 3.5%, 0.757 10.1%, 0.979 13%, 1.06, 1.121, 1.163, 1.187 18.9%, 1.194, 1.195, 1.19, 1.181 22.8%, 1.151 24.9%, 1.054 30.2%, 1.011 32.9%, 0.979 35.9%, 0.97, 0.964 39.1%, 0.962, 0.965 43.2%, 0.997 53.1%, 1.007 59.1% 63.6%, 0.999 78.8%, 1);
+    --spring-duration: 1s;
+  }
+  
+  .shaft, .tip {
+    transition: d var(--spring-easing) var(--spring-duration);
+  }
+  .btn:hover .shaft {
+    d: path("\
+      M 5,12\
+      h 17\
+    ");
+  }
+  .btn:hover .tip {
+    d: path("\
+      M 15,7\
+      l 7,5\
+      l -7,5\
+    ");
+  }
+</style>
+
+<button class="btn">
+  <svg class="arrow" aria-hidden="true" viewBox="0 0 24 24">
+    <path class="shaft" d="
+        M 5,12
+        h 14
+      "></path>
+    <path class="tip" d="
+        M 12,5
+        l 7,7
+        l -7,7
+      "></path>
+  </svg>
+  <span class="visually-hidden">
+    Go to next item
+  </span>
+</button></body></html>

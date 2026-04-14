@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Sandbox - Josh’s Course Platform</title>
+    <link rel="manifest" href="https://sandpack-bundler.vercel.app/manifest.json">
+    <link rel="shortcut icon" href="https://sandpack-bundler.vercel.app/favicon.ico">
+    <link rel="mask-icon" href="https://sandpack-bundler.vercel.app/csb-ios.svg" color="#fff">
+    <script src="a_data_003/browserfs.min.js" type="text/javascript"></script>
+    <script>
+      (window.process = BrowserFS.BFSRequire('process')),
+        (window.Buffer = BrowserFS.BFSRequire('buffer').Buffer);
+    </script>
+  <link href="https://sandpack-bundler.vercel.app/static/js/babel.7.12.12.min.js" rel="prefetch" as="script"><script charset="utf-8" src="a_data_003/2.61b71a6f1.chunk.js"></script><script charset="utf-8" src="a_data_003/6.147d49776.chunk.js"></script><style id="/reset.css:-css" type="text/css">/*
+  Josh's Custom CSS Reset
+  https://www.joshwcomeau.com/css/custom-css-reset/
+*/
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+}
+html, body {
+  height: 100%;
+}
+body {
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+input, button, textarea, select {
+  font: inherit;
+}
+p, h1, h2, h3, h4, h5, h6 {
+  overflow-wrap: break-word;
+}
+#root, #__next {
+  isolation: isolate;
+}
+
+/* Basic theme styles */
+body {
+  padding: 16px;
+  font-family: 'Wotfard', sans-serif;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th {
+  text-align: left;
+  border-bottom: 3px solid hsl(0deg 0% 25%);
+}
+th[scope="col"] {
+  text-align: right;
+  border-right: 3px solid hsl(0deg 0% 25%);
+  border-bottom: none;
+  padding-right: 8px;
+}
+tr:not(:last-of-type) th[scope="col"],
+tr:not(:last-of-type) td {
+  border-bottom: 1px solid hsl(0deg 0% 50%);
+}
+
+/* Custom fonts */
+@font-face {
+  font-family: 'Wotfard';
+  src: url('https://sandpack-bundler.vercel.app/fonts/wotfard/wotfard-semibold-webfont.woff2')
+    format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Wotfard';
+  src: url('https://sandpack-bundler.vercel.app/fonts/wotfard/wotfard-medium-webfont.woff2')
+    format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Wotfard';
+  src: url('https://sandpack-bundler.vercel.app/fonts/wotfard/wotfard-regular-webfont.woff2')
+    format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: fallback;
+}
+
+:root {
+  --font-family: 'Wotfard', sans-serif;
+}</style><style id="/styles.css:-css" type="text/css">body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  height: 100svh;
+  background: hsl(210deg 15% 6%);
+  color: white;
+}
+.wrapper {
+  width: 100%;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  border-bottom: 4px solid white;
+}</style></head>
+  <body><style>
+  /*
+    The basic setup here is that we have a “bouncer”
+    that moves up and down, consistently. Within that
+    element, we have a “ball“ that does the squashing
+    and stretching.
+
+    It might theoretically be possible to combine them
+    in a single element/animation, but it would make
+    the code far more complicated.
+  */
+  .bouncer {
+    --curve: cubic-bezier(0.123, 0.5, 0.5, 1);
+
+    width: 50px;
+    height: 50px;
+    will-change: transform;
+    /*
+      Like we saw in the Bouncing Balls exercise, this
+      keyframe animation moves the element up and down,
+      using an “ease-out” style easing curve to simulate
+      gravity.
+    */
+    animation:
+      bounce 400ms var(--curve) infinite alternate;
+  }
+
+  .ball {
+    /*
+      Change this value to affect the magnitude
+      of the bounce:
+    */
+    --amount: 0.5;
+
+    width: 100%;
+    height: 100%;
+    background: hsl(45deg 100% 50%);
+    border-radius: 50%;
+    animation: squash 800ms linear infinite;
+    transform-origin: center bottom;
+  }
+
+  /*
+    This keyframe causes an item to move up and down.
+    It stops moving for a brief moment (2% of the
+    total duration), so that the “squash” appears to
+    happen on the ground, rather than in the air.
+  */
+  @keyframes bounce {
+    0% {
+      transform: translateY(0);
+    }
+    2% {
+      transform: translateY(0);
+    }
+    100% {
+      transform: translateY(-100px);
+    }
+  }
+
+  /*
+    This keyframe is very scary. I apologize in
+    advance 😅.
+
+    Here’s the basic idea: when the animation starts,
+    this ball is fully squashed, like a water balloon
+    hitting a window. Over the first 10%, it quickly
+    transitions to being long and skinny. Finally, the
+    bulk of the animation duration is spent returning
+    to its natural shape, before the whole thing
+    happens again on the next iteration.
+
+    For this particular effect, I needed the squash
+    amount to be dynamic, for the “Squash/Stretch
+    Amount” slider. That slider controls the --amount
+    variable, and I’m using “calc” to interpolate that
+    value into squash/stretch amounts. You could
+    simplify this code by picking static values instead.
+  */
+  @keyframes squash {
+    0% {
+      transform: scale(
+        calc(1 + var(--amount) / 2),
+        calc(1 - var(--amount) / 2)
+      );
+    }
+    10% {
+      transform: scale(
+        calc(-0.5 * var(--amount) + 1),
+        calc(0.5 * var(--amount) + 1)
+      );
+    }
+    100% {
+      transform: scale(1, 1);
+    }
+  }
+</style>
+
+<div class="wrapper">
+  <div class="bouncer">
+    <div class="ball"></div>
+  </div>
+</div></body></html>
