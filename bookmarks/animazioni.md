@@ -22,6 +22,7 @@
 
 ******
 
+* Scroll-Driven Animations • Josh W. Comeau <https://www.joshwcomeau.com/animation/scroll-driven-animations/?from=newsletter>
 * Squash and Stretch • Josh W. Comeau <https://www.joshwcomeau.com/animation/squash-and-stretch/>
   * [Squash and Stretch • Josh W Comeau's Course Platform](../files/Squash-and-Stretch/Squash-and-Stretch.html)
 * A Million Little Secrets • Josh W. Comeau <https://www.joshwcomeau.com/blog/whimsical-animations/>
