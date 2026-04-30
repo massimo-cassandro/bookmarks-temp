@@ -6,6 +6,8 @@
 * Open Props UI <https://open-props-ui.netlify.app/>
 * HTML5 Sortable library <https://lukasoppermann.github.io/html5sortable/index.html>
 * argyleink/gui-challenges: Components from the YouTube show GUI Challenges: accessible, responsive, adaptive and cross browser components. <https://github.com/argyleink/gui-challenges>
+* Chakra UI <https://chakra-ui.com/>
+
 
 
 ## ux
