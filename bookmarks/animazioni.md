@@ -4,6 +4,7 @@
 * Motion — JavaScript & React animation library <https://motion.dev/>
 * Sprites on the Web • Josh W. Comeau <https://www.joshwcomeau.com/animation/sprites/>
 * Easing Wizard - CSS Easing Editor and Generator <https://easingwizard.com/>
+* Bezier Customizer • Josh W Comeau Courses <https://courses.joshwcomeau.com/tools/bezier>
 * Linear easing generator <https://linear-easing-generator.netlify.app/>
 * The ultimate guide to proper use of animation in UX <https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9>
 * Easing functions cheat sheet <https://easings.net/>
