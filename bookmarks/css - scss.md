@@ -28,6 +28,7 @@
 * CSS Border Radius Generator Online | 10015 Tools <https://10015.io/tools/css-border-radius-generator>
 * CSS Border-radius Generator <https://www.htmlcssbuttongenerator.com/border-radius-generator.php>
 * CSS Tip: Learn CSS the easy way <https://css-tip.com/>
+* Clippy — CSS clip-path maker <https://bennettfeely.com/clippy/>
 
 ---
 
