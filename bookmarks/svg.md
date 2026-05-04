@@ -2,7 +2,6 @@
 
 
 * SvgPathEditor <https://yqnn.github.io/svg-path-editor/>
-* Clippy — CSS clip-path maker <https://bennettfeely.com/clippy/>
 * SVG Path Visualizer <https://svg-path-visualizer.netlify.app>
 * SVG Stuff <https://sean.brunnock.com/SVG/>
 * SVGOMG - SVGO's Missing GUI <https://jakearchibald.github.io/svgomg/>
