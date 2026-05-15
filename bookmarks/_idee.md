@@ -9,3 +9,6 @@
 * Applied Design Works <https://helloapplied.com/>
 * Cos’è un’esperienza: il ritorno del DVD - Luca Rosati <https://www.lucarosati.it/blog/esperienza-dvd>
 
+-----
+
+* Perché le locandine delle commedie italiane si somigliano tutte <https://www.ilpost.it/2026/05/10/locandine-commedie-italiane-si-somigliano-tutte/>
